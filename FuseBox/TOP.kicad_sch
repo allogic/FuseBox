@@ -11461,8 +11461,50 @@
 		)
 	)
 	(sheet
-		(at 176.53 152.4)
-		(size 34.29 6.35)
+		(at 306.07 12.7)
+		(size 27.94 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b4e578af-3d50-44df-93ee-873a8251bc3d")
+		(property "Sheetname" "ICE40HX"
+			(at 306.07 11.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ICE40HX.kicad_sch"
+			(at 306.07 19.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FuseBox"
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 306.07 0)
+		(size 27.94 6.35)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -11477,7 +11519,7 @@
 		)
 		(uuid "e599326e-505d-4a4a-8448-d1c391dfbddc")
 		(property "Sheetname" "STM32F4"
-			(at 176.53 151.6884 0)
+			(at 306.07 -0.7116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11486,7 +11528,7 @@
 			)
 		)
 		(property "Sheetfile" "STM32F4.kicad_sch"
-			(at 176.53 159.3346 0)
+			(at 306.07 6.9346 0)
 			(effects
 				(font
 					(size 1.27 1.27)

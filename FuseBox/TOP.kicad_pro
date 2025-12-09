@@ -447,15 +447,11 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "Custom"
-    ],
-    "pinned_symbol_libs": [
-      "Custom"
-    ]
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FuseBox.kicad_pro",
+    "filename": "TOP.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -621,6 +617,10 @@
     [
       "e599326e-505d-4a4a-8448-d1c391dfbddc",
       "STM32F4"
+    ],
+    [
+      "b4e578af-3d50-44df-93ee-873a8251bc3d",
+      "ICE40HX"
     ]
   ],
   "text_variables": {}

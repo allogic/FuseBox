@@ -276,7 +276,7 @@
 		(property ki_fp_filters "USC_TOS USC_TOS-M USC_TOS-L")
 		(path "/e3f90cfc-0916-4cba-9d91-dac09f5556e0")
 		(sheetname "/")
-		(sheetfile "FuseBox.kicad_sch")
+		(sheetfile "TOP.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.002 0.777)
@@ -2599,7 +2599,7 @@
 		)
 		(path "/7fd72b4d-ffa0-428a-83a8-8b291079a23b")
 		(sheetname "/")
-		(sheetfile "FuseBox.kicad_sch")
+		(sheetfile "TOP.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.825 -4.35)
@@ -3165,7 +3165,7 @@
 		)
 		(path "/3d5d754c-822d-434c-a087-5bd056dc04cd")
 		(sheetname "/")
-		(sheetfile "FuseBox.kicad_sch")
+		(sheetfile "TOP.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.000001 -1.800001)
@@ -4111,7 +4111,7 @@
 		(property ki_fp_filters "TSSOP-20_FE/CB_LIT TSSOP-20_FE/CB_LIT-M TSSOP-20_FE/CB_LIT-L")
 		(path "/62dd4aaf-fdd9-4859-82b1-f896fc8bcb5a")
 		(sheetname "/")
-		(sheetfile "FuseBox.kicad_sch")
+		(sheetfile "TOP.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.17896 3.429)
