@@ -465,7 +465,7 @@
 		(uuid "834f15d8-6494-4e20-82d9-a55fd0b36021")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\mialb\\Downloads\\new\\SamacSys_Parts.3dshapes\\UJ31-CH-G2-SMT-TR.stp"
+	(model "${KIPRJMOD}/../Models/UJ31CHG2SMTTR.step"
 		(offset
 			(xyz 0 -1.049999937 2.469999992)
 		)

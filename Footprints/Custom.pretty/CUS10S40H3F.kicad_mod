@@ -359,7 +359,7 @@
 		(uuid "6e39f5de-f40d-4a6d-96bf-453cb3930c80")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/mialb/Downloads/ul_CUS10S40-H3F/USC-ZKN_r.stp"
+	(model "${KIPRJMOD}/../Models/CUS10S40H3F.step"
 		(offset
 			(xyz 0 0 0)
 		)

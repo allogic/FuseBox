@@ -112,7 +112,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Custom:CUS10S40_H3F"
+		(symbol "Custom:CUS10S40H3F"
 			(pin_names
 				(offset 0.254)
 			)
@@ -127,7 +127,7 @@
 					)
 				)
 			)
-			(property "Value" "CUS10S40_H3F"
+			(property "Value" "CUS10S40H3F"
 				(at 5.08 -3.81 0)
 				(effects
 					(font
@@ -182,7 +182,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "CUS10S40_H3F_1_1"
+			(symbol "CUS10S40H3F_1_1"
 				(polyline
 					(pts
 						(xy 2.54 0) (xy 3.4798 0)
@@ -304,7 +304,7 @@
 					)
 				)
 			)
-			(symbol "CUS10S40_H3F_1_2"
+			(symbol "CUS10S40H3F_1_2"
 				(polyline
 					(pts
 						(xy -1.905 3.81) (xy 1.905 3.81)
@@ -428,7 +428,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Custom:LT3030EFE_TRPBF"
+		(symbol "Custom:LT3030EFETRPBF"
 			(pin_names
 				(offset 0.254)
 			)
@@ -443,7 +443,7 @@
 					)
 				)
 			)
-			(property "Value" "LT3030EFE_TRPBF"
+			(property "Value" "LT3030EFETRPBF"
 				(at 18.542 -41.656 0)
 				(effects
 					(font
@@ -451,7 +451,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Custom:LT8302ES8E_TRPBF"
+			(property "Footprint" "Custom:LT8302ES8ETRPBF"
 				(at 19.304 -45.466 0)
 				(effects
 					(font
@@ -498,7 +498,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "LT3030EFE_TRPBF_1_1"
+			(symbol "LT3030EFETRPBF_1_1"
 				(rectangle
 					(start 7.62 3.81)
 					(end 30.48 -38.1)
@@ -1059,7 +1059,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Custom:UJ31-CH-G2-SMT-TR"
+		(symbol "Custom:UJ31CHG2SMTTR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1072,7 +1072,7 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "UJ31-CH-G2-SMT-TR"
+			(property "Value" "UJ31CHG2SMTTR"
 				(at 4.826 -36.83 0)
 				(effects
 					(font
@@ -1180,13 +1180,13 @@
 					(hide yes)
 				)
 			)
-			(symbol "UJ31-CH-G2-SMT-TR_1_1"
+			(symbol "UJ31CHG2SMTTR_1_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 30.48 -35.56)
 					(stroke
 						(width 0.254)
-						(type default)
+						(type solid)
 					)
 					(fill
 						(type background)
@@ -5148,84 +5148,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Custom:TPS61040DBVR")
-		(at 177.8 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0b99eadb-8f22-44ce-a85b-4084efab0fbc")
-		(property "Reference" "U1"
-			(at 166.878 42.418 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "TPS61040DBVR"
-			(at 172.466 57.15 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Custom:TPS61040DBVR"
-			(at 172.72 62.484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/tps61040"
-			(at 172.974 59.944 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 177.8 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "4bb78550-4c40-416a-a7c7-35b89737e834")
-		)
-		(pin "1"
-			(uuid "26b73ac6-f772-4353-9937-87e9c2134988")
-		)
-		(pin "2"
-			(uuid "3088f293-3a55-4297-84e0-587c43a0ada1")
-		)
-		(pin "4"
-			(uuid "c9947ec8-6c1d-4af2-b7a3-6582a016cc5e")
-		)
-		(pin "3"
-			(uuid "1c19c577-53e0-4b3f-9007-74982b45cc4e")
-		)
-		(instances
-			(project ""
-				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 195.58 130.81 180)
 		(unit 1)
@@ -6437,6 +6359,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Custom:TPS61040DBVR")
+		(at 177.8 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3d5d754c-822d-434c-a087-5bd056dc04cd")
+		(property "Reference" "U1"
+			(at 166.624 42.672 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TPS61040DBVR"
+			(at 172.466 56.896 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Custom:TPS61040DBVR"
+			(at 172.72 62.484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps61040"
+			(at 172.974 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 177.8 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "ad650b2b-a8e9-48e7-8d01-6d9bd835cc61")
+		)
+		(pin "1"
+			(uuid "d0503167-d3d3-48cb-8c06-3fc4909eda89")
+		)
+		(pin "3"
+			(uuid "5a8b466d-f2cb-470d-91ba-01b25985c4a0")
+		)
+		(pin "4"
+			(uuid "25af5394-d7b1-4c82-8994-eeaefb759bed")
+		)
+		(pin "2"
+			(uuid "d0214a12-b91e-4ea7-8ccd-ec0f8d50865f")
+		)
+		(instances
+			(project ""
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 199.39 71.12 0)
 		(unit 1)
@@ -7105,6 +7105,132 @@
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Custom:LT3030EFETRPBF")
+		(at 100.33 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "62dd4aaf-fdd9-4859-82b1-f896fc8bcb5a")
+		(property "Reference" "U2"
+			(at 109.474 99.822 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "LT3030EFETRPBF"
+			(at 117.348 145.796 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Custom:LT8302ES8ETRPBF"
+			(at 119.634 150.876 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/3030fa.pdf"
+			(at 119.126 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 100.33 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0c2d89e0-b7a3-45a4-8093-ab5ea6bb3d8a")
+		)
+		(pin "13"
+			(uuid "dd5a252b-3a8d-4e98-be41-08f762a2d56b")
+		)
+		(pin "18"
+			(uuid "539f41c0-1dbd-4d2b-a383-0769927c06df")
+		)
+		(pin "20"
+			(uuid "3c49a6e5-d95d-46b1-b4d7-dc96e84983e7")
+		)
+		(pin "11"
+			(uuid "106e9e15-fccb-471b-9a49-169464f7f7c0")
+		)
+		(pin "EPAD"
+			(uuid "cab993ec-d729-409f-b1fa-b959c7c86550")
+		)
+		(pin "17"
+			(uuid "f2f4c265-2971-4904-9dc1-6f103d07b010")
+		)
+		(pin "19"
+			(uuid "f5c03973-b634-4c67-b238-9bb53ce3b919")
+		)
+		(pin "12"
+			(uuid "fca098ef-74d4-409a-b0a8-0439efdf4727")
+		)
+		(pin "14"
+			(uuid "960dc9e4-e40c-4a1c-9589-e7a7ba6ad82d")
+		)
+		(pin "4"
+			(uuid "ecdffd93-dd51-4cac-8293-dbd866f76715")
+		)
+		(pin "2"
+			(uuid "5b5ed3ab-65b3-4dd6-aa1b-a6a76cbfdd71")
+		)
+		(pin "1"
+			(uuid "eb14311c-e687-44c6-b47e-68157cc738c3")
+		)
+		(pin "7"
+			(uuid "5abf0785-5437-429b-9a1c-974acbb48d5a")
+		)
+		(pin "5"
+			(uuid "3e6a9c5e-d6f8-46c1-aee2-0bafebe32a87")
+		)
+		(pin "9"
+			(uuid "b8af0665-907d-4b5d-8d33-40aa37ee1913")
+		)
+		(pin "16"
+			(uuid "2ecd91c4-f7d1-428b-b88d-e7779d73f381")
+		)
+		(pin "6"
+			(uuid "87a5e573-f12a-42d7-8798-02c18c22a528")
+		)
+		(pin "8"
+			(uuid "f0207eb8-2ced-4a24-8725-e221ef8887bb")
+		)
+		(pin "10"
+			(uuid "0cdadb11-59cf-480d-980a-968d58aabb4d")
+		)
+		(pin "15"
+			(uuid "0254517b-c589-4605-864c-96a6a758de6a")
+		)
+		(instances
+			(project ""
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -7913,6 +8039,223 @@
 		)
 	)
 	(symbol
+		(lib_id "Custom:UJ31CHG2SMTTR")
+		(at 55.88 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7fd72b4d-ffa0-428a-83a8-8b291079a23b")
+		(property "Reference" "J1"
+			(at 61.976 40.132 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "UJ31CHG2SMTTR"
+			(at 68.834 82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom:UJ31CHG2SMTTR"
+			(at 87.63 139.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/uj31-ch-g2-smt-tr.pdf"
+			(at 87.63 239.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Type C, USB 3.2 Gen 2, 10 Gbps, 20 Vdc, 5 A, Right Angle, Surface Mount, Black Insulator, USB Receptacle"
+			(at 74.93 85.344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "4.66"
+			(at 87.63 439.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Same Sky"
+			(at 87.63 539.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UJ31-CH-G2-SMT-TR"
+			(at 87.63 639.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "490-UJ31-CH-G2SMT-TR"
+			(at 87.63 739.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Same-Sky/UJ31-CH-G2-SMT-TR?qs=W0yvOO0ixfGEsh2EYrPgIQ%3D%3D"
+			(at 87.63 839.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "UJ31-CH-G2-SMT-TR"
+			(at 87.63 939.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/uj31-ch-g2-smt-tr/cui-devices?utm_currency=USD&region=nac"
+			(at 87.63 1039.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "A6"
+			(uuid "aa067a1c-a687-4aec-8b0f-c0d92f2bcdba")
+		)
+		(pin "B11"
+			(uuid "0b7b2589-41c3-4aed-8c7b-b6fb00312a2e")
+		)
+		(pin "S1"
+			(uuid "3a4ccda7-4748-4d32-ac78-1b2e02049e3f")
+		)
+		(pin "S3"
+			(uuid "29894a57-0e22-4acf-acfd-7be8024a8f09")
+		)
+		(pin "A5"
+			(uuid "f8e3f252-41f2-4d27-bda4-dd9ff42d2ff2")
+		)
+		(pin "A8"
+			(uuid "445b3760-853b-423b-8de6-ef96ef223684")
+		)
+		(pin "A10"
+			(uuid "f166e4e6-4f4d-4eda-a371-71238bb182cc")
+		)
+		(pin "B1"
+			(uuid "c40c4c5a-2c32-4293-9177-7c31c53e7a14")
+		)
+		(pin "A3"
+			(uuid "4e65afd1-26e4-4ed6-bf99-a27f716ad1f2")
+		)
+		(pin "B2"
+			(uuid "bce9a2c1-d0c0-4ee3-bb98-41feea1d733a")
+		)
+		(pin "A4"
+			(uuid "fac4161f-6550-44a6-9571-c5a08df781ed")
+		)
+		(pin "B5"
+			(uuid "914526d2-83d8-4001-8b52-35ff4323697d")
+		)
+		(pin "B4"
+			(uuid "546999cd-2bac-4e3e-b126-ffaa95d22bcd")
+		)
+		(pin "A7"
+			(uuid "253ee894-7d06-40d5-8577-a63a58226964")
+		)
+		(pin "A9"
+			(uuid "941f4b85-eca2-430d-9d0a-f731c5414290")
+		)
+		(pin "A2"
+			(uuid "1fca7c16-4e51-419d-9fba-a61a8fe8801a")
+		)
+		(pin "B3"
+			(uuid "0c26220f-ae39-431e-9799-70e9ed89f0f9")
+		)
+		(pin "B6"
+			(uuid "8125a2d5-49be-4ecd-a4d4-d383a8d2c6ac")
+		)
+		(pin "B7"
+			(uuid "494dd550-79aa-483e-bf66-fd7718fe9202")
+		)
+		(pin "B8"
+			(uuid "e14004ed-d8aa-4d2a-b4bf-630b972232f5")
+		)
+		(pin "A12"
+			(uuid "aaef29b4-9cb6-4ef6-8e49-e734cffbad89")
+		)
+		(pin "A11"
+			(uuid "79e76c88-8961-474f-aa00-79754026c484")
+		)
+		(pin "B9"
+			(uuid "b6540514-81d1-44c7-bb22-fe6f5d1dbefe")
+		)
+		(pin "A1"
+			(uuid "5c81fcab-1bf1-4c8b-a94f-cc306aaa5aad")
+		)
+		(pin "B10"
+			(uuid "595305dc-a9bd-4bf9-ae24-6f6f409834bb")
+		)
+		(pin "B12"
+			(uuid "ad3decde-3e10-49fc-8da8-e33cecb11205")
+		)
+		(pin "S2"
+			(uuid "33d791b5-60a0-458e-8deb-3bc5f4583f57")
+		)
+		(pin "S4"
+			(uuid "7233a431-f302-4a05-971d-5e47ec7dd72b")
+		)
+		(instances
+			(project ""
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 228.6 109.22 0)
 		(unit 1)
@@ -8523,75 +8866,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Custom:CUS10S40_H3F")
-		(at 205.74 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9ce4a74e-6022-4b54-8ba2-d72bcec224a7")
-		(property "Reference" "D1"
-			(at 210.82 42.672 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "CUS10S40_H3F"
-			(at 211.582 51.054 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Custom:CUS10S40H3F"
-			(at 205.74 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=14564&prodName=CUS10S40"
-			(at 205.74 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 205.74 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e93fab9b-20ef-4cb0-ab7e-675f698c4f28")
-		)
-		(pin "1"
-			(uuid "b9d6b62b-cc84-42e6-9f38-30610ee42be6")
-		)
-		(instances
-			(project ""
-				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 217.17 130.81 0)
 		(unit 1)
@@ -9150,349 +9424,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Custom:UJ31-CH-G2-SMT-TR")
-		(at 55.88 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "da171e6e-fe1c-4fae-b2f2-a571e3efd653")
-		(property "Reference" "J1"
-			(at 62.23 40.132 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "UJ31-CH-G2-SMT-TR"
-			(at 71.882 82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Custom:UJ31CHG2SMTTR"
-			(at 87.63 139.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/uj31-ch-g2-smt-tr.pdf"
-			(at 87.63 239.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Type C, USB 3.2 Gen 2, 10 Gbps, 20 Vdc, 5 A, Right Angle, Surface Mount, Black Insulator, USB Receptacle"
-			(at 74.93 85.344 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4.66"
-			(at 87.63 439.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Same Sky"
-			(at 87.63 539.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "UJ31-CH-G2-SMT-TR"
-			(at 87.63 639.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "490-UJ31-CH-G2SMT-TR"
-			(at 87.63 739.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Same-Sky/UJ31-CH-G2-SMT-TR?qs=W0yvOO0ixfGEsh2EYrPgIQ%3D%3D"
-			(at 87.63 839.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "UJ31-CH-G2-SMT-TR"
-			(at 87.63 939.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/uj31-ch-g2-smt-tr/cui-devices?utm_currency=USD&region=nac"
-			(at 87.63 1039.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "A10"
-			(uuid "db50b6c6-644d-4e1f-88a1-1c24264c45b6")
-		)
-		(pin "B7"
-			(uuid "fb102e18-1dea-49fc-812f-408db7753887")
-		)
-		(pin "B5"
-			(uuid "1b6a2a80-3560-46a1-8ddb-2845040b091d")
-		)
-		(pin "A1"
-			(uuid "3847f598-30aa-4d94-866c-d0548710b811")
-		)
-		(pin "A6"
-			(uuid "3045a1e6-a539-4314-9e4d-b12e1e30ae29")
-		)
-		(pin "A4"
-			(uuid "e7e165d9-4336-4fb5-af05-6305ccb6a65e")
-		)
-		(pin "A11"
-			(uuid "57147382-83d8-4aec-9b21-29ada932d0d2")
-		)
-		(pin "A12"
-			(uuid "6f3aa341-7f7e-480c-a182-e10e1316e15d")
-		)
-		(pin "B2"
-			(uuid "c06ca7a6-1f54-4de3-8a44-497a1baf06ff")
-		)
-		(pin "A5"
-			(uuid "d3728c0d-bfba-4f43-9b7b-b16032e4c835")
-		)
-		(pin "A2"
-			(uuid "274f977e-295d-49a8-b70e-df4da2aaacdf")
-		)
-		(pin "A7"
-			(uuid "064d70f8-9f81-4ed2-834c-74382e421b53")
-		)
-		(pin "A8"
-			(uuid "1368941b-9e87-4a16-9fe8-ae4629c733b4")
-		)
-		(pin "A9"
-			(uuid "9ca0bc5a-5c88-4331-b9bd-c6e3c2f5ed50")
-		)
-		(pin "B1"
-			(uuid "131afa4b-a951-4531-977b-f8b62e55d9dc")
-		)
-		(pin "B3"
-			(uuid "2d4bbf8a-e306-426a-a5d9-9e3ff0f5f2e9")
-		)
-		(pin "B4"
-			(uuid "d4b6670b-be4b-4840-a9de-0d673f621a44")
-		)
-		(pin "A3"
-			(uuid "9f7307f4-5cc6-4d63-b2ce-de005410207f")
-		)
-		(pin "B6"
-			(uuid "cc5d7758-2cd5-4cea-9a59-943e39e9b6e2")
-		)
-		(pin "S1"
-			(uuid "4955608a-b88b-47ef-bd23-574b2d6be27b")
-		)
-		(pin "S4"
-			(uuid "64d9263e-f34f-4b6e-a4b4-1e8f71eed183")
-		)
-		(pin "B8"
-			(uuid "efc51d5f-1ac7-4fa4-baf6-0f97c417ef0e")
-		)
-		(pin "B12"
-			(uuid "61b856c1-46ea-4dd8-bbb9-aae9a597e202")
-		)
-		(pin "S3"
-			(uuid "4d88a9ce-7628-4865-90fd-c02175c9fc62")
-		)
-		(pin "S2"
-			(uuid "2b6a2abd-0d0e-4a54-92f3-789670ff6eb9")
-		)
-		(pin "B11"
-			(uuid "37b20280-0a69-4e67-b665-84b433ae6c28")
-		)
-		(pin "B9"
-			(uuid "2704331b-455c-47e9-954e-235ce11fb5d3")
-		)
-		(pin "B10"
-			(uuid "c2619cfd-2ce1-4919-98c6-6c5381a140fc")
-		)
-		(instances
-			(project ""
-				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Custom:LT3030EFE_TRPBF")
-		(at 100.33 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "da7729f9-7fc2-4f91-8ba7-89d5b7c29eac")
-		(property "Reference" "U2"
-			(at 109.982 99.568 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "LT3030EFE_TRPBF"
-			(at 117.856 146.05 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Custom:LT8302ES8E_TRPBF"
-			(at 119.634 150.876 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/3030fa.pdf"
-			(at 119.126 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 100.33 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "2078cff7-7802-4411-a7ac-bad7375816d2")
-		)
-		(pin "16"
-			(uuid "6ef044ae-026e-4803-9751-20483de97da5")
-		)
-		(pin "18"
-			(uuid "921f0c6f-75e3-418b-bf52-e4995b38ab3b")
-		)
-		(pin "12"
-			(uuid "cf3c7d8d-4d9e-407a-9240-c743c260d8c6")
-		)
-		(pin "1"
-			(uuid "004be4bc-6586-4f97-8d50-d9412a4a482f")
-		)
-		(pin "9"
-			(uuid "5d4f5771-b2ff-44b4-afd4-d6c660153013")
-		)
-		(pin "2"
-			(uuid "917e98ca-0044-4b81-91a8-cf91ac48f48e")
-		)
-		(pin "17"
-			(uuid "90e5c9f8-172e-44bc-a29f-08cb20e27296")
-		)
-		(pin "13"
-			(uuid "3797dc32-99dc-42be-aaa6-a584dd53a572")
-		)
-		(pin "11"
-			(uuid "c18e4f89-2b02-46da-8808-513645d52ba6")
-		)
-		(pin "5"
-			(uuid "16f9fb42-1d6b-4957-bea5-03b3164506fc")
-		)
-		(pin "3"
-			(uuid "ae8140b0-9ba1-4743-a7bb-e22f63e9ab05")
-		)
-		(pin "14"
-			(uuid "7e8f9692-e7ae-4332-94a7-e826870fbe40")
-		)
-		(pin "EPAD"
-			(uuid "51441f67-9043-4a46-8aa8-ae595f15dde0")
-		)
-		(pin "4"
-			(uuid "fc5c97cb-fc80-4614-8aaf-b7776331207b")
-		)
-		(pin "7"
-			(uuid "39f089f1-45fd-4b93-b29d-3998f98377a4")
-		)
-		(pin "20"
-			(uuid "f9926aa5-93e7-44bf-a750-bf00a17e4c66")
-		)
-		(pin "19"
-			(uuid "6f7b560f-c454-4261-a435-7386d307da97")
-		)
-		(pin "8"
-			(uuid "6ee97cab-7fe3-41ea-9de2-bc9966ce7a66")
-		)
-		(pin "10"
-			(uuid "5e7b7179-2013-45f4-acf9-180e878dd4ce")
-		)
-		(pin "15"
-			(uuid "98fd7de2-c279-4623-a439-1c30d96e5464")
-		)
-		(instances
-			(project ""
-				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 38.1 170.18 0)
 		(unit 1)
@@ -9556,6 +9487,75 @@
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Custom:CUS10S40H3F")
+		(at 205.74 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e3f90cfc-0916-4cba-9d91-dac09f5556e0")
+		(property "Reference" "D1"
+			(at 210.82 42.926 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "CUS10S40H3F"
+			(at 210.82 51.054 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Custom:CUS10S40H3F"
+			(at 205.74 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=14564&prodName=CUS10S40"
+			(at 205.74 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a480dd58-ed26-494c-b5f4-3658518c5f83")
+		)
+		(pin "1"
+			(uuid "b72f2c43-60b4-4b9f-a9f0-a3db99c3adc8")
+		)
+		(instances
+			(project ""
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(reference "D1")
 					(unit 1)
 				)
 			)

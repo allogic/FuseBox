@@ -915,7 +915,7 @@
 		(uuid "385207d0-6baa-4cd1-952f-4741bc624861")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/mialb/Downloads/ul_TPS61040DBVR/DBV0005A.stp"
+	(model "${KIPRJMOD}/../Models/TPS61040DBVR.step"
 		(offset
 			(xyz 0 0 0)
 		)
