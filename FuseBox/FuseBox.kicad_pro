@@ -447,8 +447,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "Custom"
+    ],
+    "pinned_symbol_libs": [
+      "Custom"
+    ]
   },
   "meta": {
     "filename": "FuseBox.kicad_pro",
@@ -613,6 +617,10 @@
     [
       "7cec0856-4a31-46c4-b6e3-cba19fcff38c",
       "Root"
+    ],
+    [
+      "e599326e-505d-4a4a-8448-d1c391dfbddc",
+      "STM32F4"
     ]
   ],
   "text_variables": {}
