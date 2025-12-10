@@ -616,7 +616,7 @@
     ],
     [
       "6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79",
-      "POWER"
+      "USB_PWR"
     ],
     [
       "e599326e-505d-4a4a-8448-d1c391dfbddc",
@@ -625,6 +625,10 @@
     [
       "b4e578af-3d50-44df-93ee-873a8251bc3d",
       "ICE40HX"
+    ],
+    [
+      "580dcacf-58ac-4920-a9de-4f719f9469e5",
+      "USB_SPI"
     ]
   ],
   "text_variables": {}

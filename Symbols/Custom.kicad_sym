@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
-			(at 5.334 5.08 0)
+			(at 0.254 2.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16,7 +16,7 @@
 			)
 		)
 		(property "Value" "61301611121"
-			(at 3.556 -42.164 0)
+			(at -1.778 -42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25,7 +25,7 @@
 			)
 		)
 		(property "Footprint" "Custom:61301611121"
-			(at 16.51 -94.92 0)
+			(at 11.43 -96.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35,7 +35,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/download/3D_61301611121+%28rev1%29.pdf"
-			(at 16.51 -194.92 0)
+			(at 11.43 -196.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45,7 +45,7 @@
 			)
 		)
 		(property "Description" "WR-PHD 2.54 mm Pin Header 16 pins, 1 row, straight, gold plating"
-			(at 8.382 -46.482 0)
+			(at 5.842 5.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54,7 +54,7 @@
 			)
 		)
 		(property "Height" "8.74"
-			(at 16.51 -394.92 0)
+			(at 11.43 -396.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64,7 +64,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at 16.51 -494.92 0)
+			(at 11.43 -496.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74,7 +74,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "61301611121"
-			(at 16.51 -594.92 0)
+			(at 11.43 -596.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84,7 +84,7 @@
 			)
 		)
 		(property "Mouser Part Number" "710-61301611121"
-			(at 16.51 -694.92 0)
+			(at 11.43 -696.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -94,7 +94,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61301611121?qs=PhR8RmCirEYq%2F9PEO1%2F%252B%252Bg%3D%3D"
-			(at 16.51 -794.92 0)
+			(at 11.43 -796.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104,7 +104,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 16.51 -894.92 0)
+			(at 11.43 -896.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -114,7 +114,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 16.51 -994.92 0)
+			(at 11.43 -996.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125,8 +125,8 @@
 		)
 		(symbol "61301611121_1_1"
 			(rectangle
-				(start 5.08 1.27)
-				(end 15.24 -39.37)
+				(start 0 0)
+				(end 10.16 -40.64)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -136,7 +136,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 0 0)
+				(at -5.08 -1.27 0)
 				(length 5.08)
 				(name "1"
 					(effects
@@ -154,7 +154,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -2.54 0)
+				(at -5.08 -3.81 0)
 				(length 5.08)
 				(name "2"
 					(effects
@@ -172,7 +172,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 0)
+				(at -5.08 -6.35 0)
 				(length 5.08)
 				(name "3"
 					(effects
@@ -190,7 +190,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -7.62 0)
+				(at -5.08 -8.89 0)
 				(length 5.08)
 				(name "4"
 					(effects
@@ -208,7 +208,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -10.16 0)
+				(at -5.08 -11.43 0)
 				(length 5.08)
 				(name "5"
 					(effects
@@ -226,7 +226,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -12.7 0)
+				(at -5.08 -13.97 0)
 				(length 5.08)
 				(name "6"
 					(effects
@@ -244,7 +244,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -15.24 0)
+				(at -5.08 -16.51 0)
 				(length 5.08)
 				(name "7"
 					(effects
@@ -262,7 +262,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -17.78 0)
+				(at -5.08 -19.05 0)
 				(length 5.08)
 				(name "8"
 					(effects
@@ -280,7 +280,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -20.32 0)
+				(at -5.08 -21.59 0)
 				(length 5.08)
 				(name "9"
 					(effects
@@ -298,7 +298,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -22.86 0)
+				(at -5.08 -24.13 0)
 				(length 5.08)
 				(name "10"
 					(effects
@@ -316,7 +316,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -25.4 0)
+				(at -5.08 -26.67 0)
 				(length 5.08)
 				(name "11"
 					(effects
@@ -334,7 +334,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -27.94 0)
+				(at -5.08 -29.21 0)
 				(length 5.08)
 				(name "12"
 					(effects
@@ -352,7 +352,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -30.48 0)
+				(at -5.08 -31.75 0)
 				(length 5.08)
 				(name "13"
 					(effects
@@ -370,7 +370,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -33.02 0)
+				(at -5.08 -34.29 0)
 				(length 5.08)
 				(name "14"
 					(effects
@@ -388,7 +388,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -35.56 0)
+				(at -5.08 -36.83 0)
 				(length 5.08)
 				(name "15"
 					(effects
@@ -406,7 +406,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -38.1 0)
+				(at -5.08 -39.37 0)
 				(length 5.08)
 				(name "16"
 					(effects
@@ -450,7 +450,7 @@
 			)
 		)
 		(property "Footprint" "Custom:CG048748M"
-			(at 4.318 -8.636 0)
+			(at 4.826 7.874 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -460,7 +460,7 @@
 			)
 		)
 		(property "Datasheet" "CG04874-8M"
-			(at 4.572 -6.604 0)
+			(at 4.826 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -742,7 +742,7 @@
 			)
 		)
 		(property "Footprint" "Custom:CUS10S40H3F"
-			(at 0 0 0)
+			(at 3.81 9.398 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -752,7 +752,7 @@
 			)
 		)
 		(property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=14564&prodName=CUS10S40"
-			(at 0 0 0)
+			(at 0.508 7.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1024,6 +1024,2664 @@
 					)
 				)
 				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "FT2232HPQTRAY"
+		(pin_names
+			(offset 0.254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 1.778 2.286 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "FT2232HPQTRAY"
+			(at 10.16 -131.572 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Custom:FT2232HPQTRAY"
+			(at 20.828 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "FT2232HPQ-TRAY"
+			(at 20.828 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at -7.62 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "FT2232HPQ-TRAY"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "QFN68_FT2232_FTD QFN68_FT2232_FTD-M QFN68_FT2232_FTD-L"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "FT2232HPQTRAY_0_1"
+			(pin power_in line
+				(at -7.62 -2.54 0)
+				(length 7.62)
+				(name "VREGIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -7.62 -5.08 0)
+				(length 7.62)
+				(name "VREGOUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "31"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -21.59 0)
+				(length 7.62)
+				(name "RESET#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -7.62 -43.18 0)
+				(length 7.62)
+				(name "EECLK"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -45.72 0)
+				(length 7.62)
+				(name "EEDATA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -55.88 0)
+				(length 7.62)
+				(name "OSCI"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -7.62 -58.42 0)
+				(length 7.62)
+				(name "OSCO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -125.73 0)
+				(length 7.62)
+				(name "TEST"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 7.62 270)
+				(length 7.62)
+				(name "VCC_PD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "61"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 15.24 7.62 270)
+				(length 7.62)
+				(name "VCC_USB"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "57"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 22.86 7.62 270)
+				(length 7.62)
+				(name "VCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 25.4 -135.89 90)
+				(length 7.62)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 27.94 7.62 270)
+				(length 7.62)
+				(name "VCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 27.94 -135.89 90)
+				(length 7.62)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 30.48 7.62 270)
+				(length 7.62)
+				(name "VCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "66"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 36.83 7.62 270)
+				(length 7.62)
+				(name "VCCIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 39.37 7.62 270)
+				(length 7.62)
+				(name "VCCIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 41.91 7.62 270)
+				(length 7.62)
+				(name "VCCIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 44.45 7.62 270)
+				(length 7.62)
+				(name "VCCIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "51"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -62.23 180)
+				(length 7.62)
+				(name "BDBUS1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -64.77 180)
+				(length 7.62)
+				(name "BDBUS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -67.31 180)
+				(length 7.62)
+				(name "BDBUS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -69.85 180)
+				(length 7.62)
+				(name "BDBUS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -72.39 180)
+				(length 7.62)
+				(name "BDBUS5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -74.93 180)
+				(length 7.62)
+				(name "BDBUS6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "41"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -77.47 180)
+				(length 7.62)
+				(name "BDBUS7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "42"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -82.55 180)
+				(length 7.62)
+				(name "BCBUS0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -85.09 180)
+				(length 7.62)
+				(name "BCBUS1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "46"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -87.63 180)
+				(length 7.62)
+				(name "BCBUS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "47"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -90.17 180)
+				(length 7.62)
+				(name "BCBUS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "48"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -92.71 180)
+				(length 7.62)
+				(name "BCBUS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "49"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -95.25 180)
+				(length 7.62)
+				(name "BCBUS5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "50"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -97.79 180)
+				(length 7.62)
+				(name "BCBUS6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "52"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -100.33 180)
+				(length 7.62)
+				(name "BCBUS7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "53"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -105.41 180)
+				(length 7.62)
+				(name "GPIO0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "56"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -107.95 180)
+				(length 7.62)
+				(name "GPIO1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "55"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -110.49 180)
+				(length 7.62)
+				(name "GPIO2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "54"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 54.61 -123.19 180)
+				(length 7.62)
+				(name "PWREN#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "67"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "FT2232HPQTRAY_1_1"
+			(rectangle
+				(start 0 0)
+				(end 46.99 -128.27)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -10.16 0)
+				(length 7.62)
+				(name "DM"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "58"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -12.7 0)
+				(length 7.62)
+				(name "DP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "59"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -7.62 -30.48 0)
+				(length 7.62)
+				(name "REF"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "60"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -40.64 0)
+				(length 7.62)
+				(name "EECS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "68"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -78.74 0)
+				(length 7.62)
+				(name "PD1_CC1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "65"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -81.28 0)
+				(length 7.62)
+				(name "PD1_CC2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "62"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -7.62 -88.9 0)
+				(length 7.62)
+				(name "PD1_VCONN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "64"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 -91.44 0)
+				(length 7.62)
+				(name "PD1_SVBUS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "63"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -7.62 -96.52 0)
+				(length 7.62)
+				(name "FSOURCE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at -7.62 -123.19 0)
+				(length 7.62)
+				(name "EPAD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "69"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 7.62 270)
+				(length 7.62)
+				(name "VPP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 25.4 7.62 270)
+				(length 7.62)
+				(name "VCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -13.97 180)
+				(length 7.62)
+				(name "ADBUS0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -16.51 180)
+				(length 7.62)
+				(name "ADBUS1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -19.05 180)
+				(length 7.62)
+				(name "ADBUS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -21.59 180)
+				(length 7.62)
+				(name "ADBUS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -24.13 180)
+				(length 7.62)
+				(name "ADBUS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -26.67 180)
+				(length 7.62)
+				(name "ADBUS5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -29.21 180)
+				(length 7.62)
+				(name "ADBUS6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -31.75 180)
+				(length 7.62)
+				(name "ADBUS7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -36.83 180)
+				(length 7.62)
+				(name "ACBUS0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -39.37 180)
+				(length 7.62)
+				(name "ACBUS1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -41.91 180)
+				(length 7.62)
+				(name "ACBUS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -44.45 180)
+				(length 7.62)
+				(name "ACBUS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -46.99 180)
+				(length 7.62)
+				(name "ACBUS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -49.53 180)
+				(length 7.62)
+				(name "ACBUS5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -52.07 180)
+				(length 7.62)
+				(name "ACBUS6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -54.61 180)
+				(length 7.62)
+				(name "ACBUS7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -59.69 180)
+				(length 7.62)
+				(name "BDBUS0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -113.03 180)
+				(length 7.62)
+				(name "GPIO3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 54.61 -125.73 180)
+				(length 7.62)
+				(name "SUSPEND#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "43"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "FT4232HPQREEL"
+		(pin_names
+			(offset 0.254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 1.778 2.286 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "FT4232HPQREEL"
+			(at 10.16 -131.318 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Custom:FT4232HPQREEL"
+			(at 22.606 23.114 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "FT4232HPQ-REEL"
+			(at 23.114 25.654 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at -7.62 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "FT4232HPQ-REEL"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "QFN-68_FT4232HPQ_FTD QFN-68_FT4232HPQ_FTD-M QFN-68_FT4232HPQ_FTD-L"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "FT4232HPQREEL_0_1"
+			(pin power_in line
+				(at -7.62 -2.54 0)
+				(length 7.62)
+				(name "VREGIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -21.59 0)
+				(length 7.62)
+				(name "RESET#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -7.62 -43.18 0)
+				(length 7.62)
+				(name "EECLK"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -45.72 0)
+				(length 7.62)
+				(name "EEDATA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -55.88 0)
+				(length 7.62)
+				(name "OSCI"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -7.62 -58.42 0)
+				(length 7.62)
+				(name "OSCO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -125.73 0)
+				(length 7.62)
+				(name "TEST"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 7.62 270)
+				(length 7.62)
+				(name "VCC_PD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "61"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 15.24 7.62 270)
+				(length 7.62)
+				(name "VCC_USB"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "57"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 27.94 7.62 270)
+				(length 7.62)
+				(name "VCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 30.48 7.62 270)
+				(length 7.62)
+				(name "VCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "66"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 30.48 -135.89 90)
+				(length 7.62)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "69"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 41.91 7.62 270)
+				(length 7.62)
+				(name "VCCIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 44.45 7.62 270)
+				(length 7.62)
+				(name "VCCIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "51"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -62.23 180)
+				(length 7.62)
+				(name "CDBUS1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -64.77 180)
+				(length 7.62)
+				(name "CDBUS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -67.31 180)
+				(length 7.62)
+				(name "CDBUS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -69.85 180)
+				(length 7.62)
+				(name "CDBUS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -72.39 180)
+				(length 7.62)
+				(name "CDBUS5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -74.93 180)
+				(length 7.62)
+				(name "CDBUS6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "41"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -77.47 180)
+				(length 7.62)
+				(name "CDBUS7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "42"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -82.55 180)
+				(length 7.62)
+				(name "DDBUS0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -85.09 180)
+				(length 7.62)
+				(name "DDBUS1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "46"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -87.63 180)
+				(length 7.62)
+				(name "DDBUS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "47"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -90.17 180)
+				(length 7.62)
+				(name "DDBUS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "48"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -92.71 180)
+				(length 7.62)
+				(name "DDBUS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "49"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -95.25 180)
+				(length 7.62)
+				(name "DDBUS5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "50"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -97.79 180)
+				(length 7.62)
+				(name "DDBUS6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "52"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -100.33 180)
+				(length 7.62)
+				(name "DDBUS7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "53"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -105.41 180)
+				(length 7.62)
+				(name "GPIO0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "56"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -107.95 180)
+				(length 7.62)
+				(name "GPIO1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "55"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -110.49 180)
+				(length 7.62)
+				(name "GPIO2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "54"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 54.61 -123.19 180)
+				(length 7.62)
+				(name "PWREN#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "67"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 54.61 -125.73 180)
+				(length 7.62)
+				(name "SUSPEND#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "43"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "FT4232HPQREEL_1_1"
+			(rectangle
+				(start 0 0)
+				(end 46.99 -128.27)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin output line
+				(at -7.62 -5.08 0)
+				(length 7.62)
+				(name "VREGOUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "31"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -10.16 0)
+				(length 7.62)
+				(name "DM"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "58"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -12.7 0)
+				(length 7.62)
+				(name "DP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "59"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at -7.62 -30.48 0)
+				(length 7.62)
+				(name "REF"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "60"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -40.64 0)
+				(length 7.62)
+				(name "EECS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "68"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -78.74 0)
+				(length 7.62)
+				(name "PD1_CC1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "65"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -7.62 -81.28 0)
+				(length 7.62)
+				(name "PD1_CC2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "62"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -7.62 -88.9 0)
+				(length 7.62)
+				(name "PD1_VCONN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "64"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 -91.44 0)
+				(length 7.62)
+				(name "PD1_SVBUS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "63"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -7.62 -96.52 0)
+				(length 7.62)
+				(name "FSOURCE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 7.62 270)
+				(length 7.62)
+				(name "VPP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 22.86 7.62 270)
+				(length 7.62)
+				(name "VCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 25.4 7.62 270)
+				(length 7.62)
+				(name "VCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 25.4 -135.89 90)
+				(length 7.62)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 27.94 -135.89 90)
+				(length 7.62)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 36.83 7.62 270)
+				(length 7.62)
+				(name "VCCIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 39.37 7.62 270)
+				(length 7.62)
+				(name "VCCIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -13.97 180)
+				(length 7.62)
+				(name "ADBUS0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -16.51 180)
+				(length 7.62)
+				(name "ADBUS1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -19.05 180)
+				(length 7.62)
+				(name "ADBUS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -21.59 180)
+				(length 7.62)
+				(name "ADBUS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -24.13 180)
+				(length 7.62)
+				(name "ADBUS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -26.67 180)
+				(length 7.62)
+				(name "ADBUS5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -29.21 180)
+				(length 7.62)
+				(name "ADBUS6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -31.75 180)
+				(length 7.62)
+				(name "ADBUS7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -36.83 180)
+				(length 7.62)
+				(name "BDBUS0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -39.37 180)
+				(length 7.62)
+				(name "BDBUS1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -41.91 180)
+				(length 7.62)
+				(name "BDBUS2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -44.45 180)
+				(length 7.62)
+				(name "BDBUS3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -46.99 180)
+				(length 7.62)
+				(name "BDBUS4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -49.53 180)
+				(length 7.62)
+				(name "BDBUS5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -52.07 180)
+				(length 7.62)
+				(name "BDBUS6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -54.61 180)
+				(length 7.62)
+				(name "BDBUS7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -59.69 180)
+				(length 7.62)
+				(name "CDBUS0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 54.61 -113.03 180)
+				(length 7.62)
+				(name "GPIO3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5810,7 +8468,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 8.89 5.588 0)
+			(at 1.27 1.778 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5818,7 +8476,7 @@
 			)
 		)
 		(property "Value" "LT3030EFETRPBF"
-			(at 18.542 -41.656 0)
+			(at 10.16 -44.196 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5826,7 +8484,7 @@
 			)
 		)
 		(property "Footprint" "Custom:LT8302ES8ETRPBF"
-			(at 19.304 -45.466 0)
+			(at 11.43 8.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5836,7 +8494,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/3030fa.pdf"
-			(at 18.796 -48.26 0)
+			(at 12.7 5.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5846,7 +8504,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -7.62 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5874,8 +8532,8 @@
 		)
 		(symbol "LT3030EFETRPBF_1_1"
 			(rectangle
-				(start 7.62 3.81)
-				(end 30.48 -38.1)
+				(start 0 0)
+				(end 22.86 -41.91)
 				(stroke
 					(width 0)
 					(type solid)
@@ -5885,7 +8543,7 @@
 				)
 			)
 			(pin input line
-				(at 0 1.27 0)
+				(at -7.62 -2.54 0)
 				(length 7.62)
 				(name "IN1"
 					(effects
@@ -5903,7 +8561,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -1.27 0)
+				(at -7.62 -5.08 0)
 				(length 7.62)
 				(name "IN1"
 					(effects
@@ -5921,7 +8579,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -3.81 0)
+				(at -7.62 -7.62 0)
 				(length 7.62)
 				(name "IN2"
 					(effects
@@ -5939,7 +8597,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -6.35 0)
+				(at -7.62 -10.16 0)
 				(length 7.62)
 				(name "IN2"
 					(effects
@@ -5957,7 +8615,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -11.43 0)
+				(at -7.62 -15.24 0)
 				(length 7.62)
 				(name "*SHDN1"
 					(effects
@@ -5975,7 +8633,7 @@
 				)
 			)
 			(pin output line
-				(at 0 -13.97 0)
+				(at -7.62 -17.78 0)
 				(length 7.62)
 				(name "*SHDN2"
 					(effects
@@ -5993,7 +8651,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -19.05 0)
+				(at -7.62 -22.86 0)
 				(length 7.62)
 				(name "EPAD"
 					(effects
@@ -6011,7 +8669,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -33.02 0)
+				(at -7.62 -36.83 0)
 				(length 7.62)
 				(name "PWRGD1"
 					(effects
@@ -6029,7 +8687,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -35.56 0)
+				(at -7.62 -39.37 0)
 				(length 7.62)
 				(name "PWRGD2"
 					(effects
@@ -6047,7 +8705,7 @@
 				)
 			)
 			(pin output line
-				(at 38.1 1.27 180)
+				(at 30.48 -2.54 180)
 				(length 7.62)
 				(name "OUT1"
 					(effects
@@ -6065,7 +8723,7 @@
 				)
 			)
 			(pin output line
-				(at 38.1 -1.27 180)
+				(at 30.48 -5.08 180)
 				(length 7.62)
 				(name "OUT1"
 					(effects
@@ -6083,7 +8741,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 38.1 -3.81 180)
+				(at 30.48 -7.62 180)
 				(length 7.62)
 				(name "BYP1"
 					(effects
@@ -6101,7 +8759,7 @@
 				)
 			)
 			(pin input line
-				(at 38.1 -6.35 180)
+				(at 30.48 -10.16 180)
 				(length 7.62)
 				(name "ADJ1"
 					(effects
@@ -6119,7 +8777,7 @@
 				)
 			)
 			(pin output line
-				(at 38.1 -12.7 180)
+				(at 30.48 -16.51 180)
 				(length 7.62)
 				(name "OUT2"
 					(effects
@@ -6137,7 +8795,7 @@
 				)
 			)
 			(pin output line
-				(at 38.1 -15.24 180)
+				(at 30.48 -19.05 180)
 				(length 7.62)
 				(name "OUT2"
 					(effects
@@ -6155,7 +8813,7 @@
 				)
 			)
 			(pin input line
-				(at 38.1 -17.78 180)
+				(at 30.48 -21.59 180)
 				(length 7.62)
 				(name "ADJ2"
 					(effects
@@ -6173,7 +8831,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 38.1 -20.32 180)
+				(at 30.48 -24.13 180)
 				(length 7.62)
 				(name "BYP2"
 					(effects
@@ -6191,7 +8849,7 @@
 				)
 			)
 			(pin power_in line
-				(at 38.1 -27.94 180)
+				(at 30.48 -31.75 180)
 				(length 7.62)
 				(name "GND"
 					(effects
@@ -6209,7 +8867,7 @@
 				)
 			)
 			(pin power_in line
-				(at 38.1 -30.48 180)
+				(at 30.48 -34.29 180)
 				(length 7.62)
 				(name "GND"
 					(effects
@@ -6227,7 +8885,7 @@
 				)
 			)
 			(pin power_in line
-				(at 38.1 -33.02 180)
+				(at 30.48 -36.83 180)
 				(length 7.62)
 				(name "GND"
 					(effects
@@ -6245,7 +8903,7 @@
 				)
 			)
 			(pin power_in line
-				(at 38.1 -35.56 180)
+				(at 30.48 -39.37 180)
 				(length 7.62)
 				(name "GND"
 					(effects
@@ -6273,7 +8931,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -11.684 16.002 0)
+			(at 1.016 2.032 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6281,7 +8939,7 @@
 			)
 		)
 		(property "Value" "TPS61040DBVR"
-			(at -5.08 1.524 0)
+			(at 7.62 -12.446 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -6289,7 +8947,7 @@
 			)
 		)
 		(property "Footprint" "Custom:TPS61040DBVR"
-			(at -5.08 -4.064 0)
+			(at 7.366 7.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6299,7 +8957,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/gpn/tps61040"
-			(at -4.826 -1.524 0)
+			(at 5.842 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6309,7 +8967,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 12.7 -13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6328,7 +8986,7 @@
 		)
 		(symbol "TPS61040DBVR_0_1"
 			(pin power_in line
-				(at -17.78 11.43 0)
+				(at -5.08 -2.54 0)
 				(length 5.08)
 				(name "VIN"
 					(effects
@@ -6346,7 +9004,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 6.35 0)
+				(at -5.08 -7.62 0)
 				(length 5.08)
 				(name "EN"
 					(effects
@@ -6364,7 +9022,7 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 11.43 180)
+				(at 20.32 -2.54 180)
 				(length 5.08)
 				(name "SW"
 					(effects
@@ -6382,7 +9040,7 @@
 				)
 			)
 			(pin input line
-				(at 7.62 8.89 180)
+				(at 20.32 -5.08 180)
 				(length 5.08)
 				(name "FB"
 					(effects
@@ -6400,7 +9058,7 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 6.35 180)
+				(at 20.32 -7.62 180)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -6420,8 +9078,8 @@
 		)
 		(symbol "TPS61040DBVR_1_1"
 			(rectangle
-				(start -12.7 13.97)
-				(end 2.54 3.81)
+				(start 0 0)
+				(end 15.24 -10.16)
 				(stroke
 					(width 0)
 					(type solid)
@@ -6438,7 +9096,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
-			(at 5.334 5.08 0)
+			(at 0.254 2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6447,7 +9105,7 @@
 			)
 		)
 		(property "Value" "UJ31CHG2SMTTR"
-			(at 4.826 -36.83 0)
+			(at -0.254 -39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6456,7 +9114,7 @@
 			)
 		)
 		(property "Footprint" "Custom:UJ31CHG2SMTTR"
-			(at 31.75 -94.92 0)
+			(at 26.67 -97.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6466,7 +9124,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.sameskydevices.com/product/resource/uj31-ch-g2-smt-tr.pdf"
-			(at 31.75 -194.92 0)
+			(at 26.67 -197.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6476,7 +9134,7 @@
 			)
 		)
 		(property "Description" "Type C, USB 3.2 Gen 2, 10 Gbps, 20 Vdc, 5 A, Right Angle, Surface Mount, Black Insulator, USB Receptacle"
-			(at 19.05 -40.894 0)
+			(at 13.97 4.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6485,7 +9143,7 @@
 			)
 		)
 		(property "Height" "4.66"
-			(at 31.75 -394.92 0)
+			(at 26.67 -397.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6495,7 +9153,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Same Sky"
-			(at 31.75 -494.92 0)
+			(at 26.67 -497.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6505,7 +9163,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "UJ31-CH-G2-SMT-TR"
-			(at 31.75 -594.92 0)
+			(at 26.67 -597.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6515,7 +9173,7 @@
 			)
 		)
 		(property "Mouser Part Number" "490-UJ31-CH-G2SMT-TR"
-			(at 31.75 -694.92 0)
+			(at 26.67 -697.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6525,7 +9183,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Same-Sky/UJ31-CH-G2-SMT-TR?qs=W0yvOO0ixfGEsh2EYrPgIQ%3D%3D"
-			(at 31.75 -794.92 0)
+			(at 26.67 -797.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6535,7 +9193,7 @@
 			)
 		)
 		(property "Arrow Part Number" "UJ31-CH-G2-SMT-TR"
-			(at 31.75 -894.92 0)
+			(at 26.67 -897.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6545,7 +9203,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/uj31-ch-g2-smt-tr/cui-devices?utm_currency=USD&region=nac"
-			(at 31.75 -994.92 0)
+			(at 26.67 -997.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6556,8 +9214,8 @@
 		)
 		(symbol "UJ31CHG2SMTTR_1_1"
 			(rectangle
-				(start 5.08 2.54)
-				(end 30.48 -35.56)
+				(start 0 0)
+				(end 25.4 -38.1)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -6567,7 +9225,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 0 0)
+				(at -5.08 -2.54 0)
 				(length 5.08)
 				(name "GND_1"
 					(effects
@@ -6585,7 +9243,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -2.54 0)
+				(at -5.08 -5.08 0)
 				(length 5.08)
 				(name "SSTXP1"
 					(effects
@@ -6603,7 +9261,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 0)
+				(at -5.08 -7.62 0)
 				(length 5.08)
 				(name "SSTXN1"
 					(effects
@@ -6621,7 +9279,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -7.62 0)
+				(at -5.08 -10.16 0)
 				(length 5.08)
 				(name "V_BUS_1"
 					(effects
@@ -6639,7 +9297,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -10.16 0)
+				(at -5.08 -12.7 0)
 				(length 5.08)
 				(name "CC1"
 					(effects
@@ -6657,7 +9315,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -12.7 0)
+				(at -5.08 -15.24 0)
 				(length 5.08)
 				(name "DP1"
 					(effects
@@ -6675,7 +9333,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -15.24 0)
+				(at -5.08 -17.78 0)
 				(length 5.08)
 				(name "DN1"
 					(effects
@@ -6693,7 +9351,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -17.78 0)
+				(at -5.08 -20.32 0)
 				(length 5.08)
 				(name "SBU1"
 					(effects
@@ -6711,7 +9369,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -20.32 0)
+				(at -5.08 -22.86 0)
 				(length 5.08)
 				(name "V_BUS_2"
 					(effects
@@ -6729,7 +9387,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -22.86 0)
+				(at -5.08 -25.4 0)
 				(length 5.08)
 				(name "SSRXN2"
 					(effects
@@ -6747,7 +9405,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -25.4 0)
+				(at -5.08 -27.94 0)
 				(length 5.08)
 				(name "SSRXP2"
 					(effects
@@ -6765,7 +9423,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -27.94 0)
+				(at -5.08 -30.48 0)
 				(length 5.08)
 				(name "GND_2"
 					(effects
@@ -6783,7 +9441,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -30.48 0)
+				(at -5.08 -33.02 0)
 				(length 5.08)
 				(name "GND_3"
 					(effects
@@ -6801,7 +9459,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -33.02 0)
+				(at -5.08 -35.56 0)
 				(length 5.08)
 				(name "SSTXP2"
 					(effects
@@ -6819,7 +9477,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 0 180)
+				(at 30.48 -2.54 180)
 				(length 5.08)
 				(name "SSTXN2"
 					(effects
@@ -6837,7 +9495,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -2.54 180)
+				(at 30.48 -5.08 180)
 				(length 5.08)
 				(name "VBUS_1"
 					(effects
@@ -6855,7 +9513,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -5.08 180)
+				(at 30.48 -7.62 180)
 				(length 5.08)
 				(name "CC2"
 					(effects
@@ -6873,7 +9531,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -7.62 180)
+				(at 30.48 -10.16 180)
 				(length 5.08)
 				(name "DP2"
 					(effects
@@ -6891,7 +9549,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -10.16 180)
+				(at 30.48 -12.7 180)
 				(length 5.08)
 				(name "DN2"
 					(effects
@@ -6909,7 +9567,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -12.7 180)
+				(at 30.48 -15.24 180)
 				(length 5.08)
 				(name "SBU2"
 					(effects
@@ -6927,7 +9585,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -15.24 180)
+				(at 30.48 -17.78 180)
 				(length 5.08)
 				(name "VBUS_2"
 					(effects
@@ -6945,7 +9603,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -17.78 180)
+				(at 30.48 -20.32 180)
 				(length 5.08)
 				(name "SSRXN1"
 					(effects
@@ -6963,7 +9621,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -20.32 180)
+				(at 30.48 -22.86 180)
 				(length 5.08)
 				(name "SSRXP1"
 					(effects
@@ -6981,7 +9639,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -22.86 180)
+				(at 30.48 -25.4 180)
 				(length 5.08)
 				(name "GND_4"
 					(effects
@@ -6999,7 +9657,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -25.4 180)
+				(at 30.48 -27.94 180)
 				(length 5.08)
 				(name "GND_5"
 					(effects
@@ -7017,7 +9675,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -27.94 180)
+				(at 30.48 -30.48 180)
 				(length 5.08)
 				(name "GND_6"
 					(effects
@@ -7035,7 +9693,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -30.48 180)
+				(at 30.48 -33.02 180)
 				(length 5.08)
 				(name "GND_7"
 					(effects
@@ -7053,7 +9711,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -33.02 180)
+				(at 30.48 -35.56 180)
 				(length 5.08)
 				(name "GND_8"
 					(effects

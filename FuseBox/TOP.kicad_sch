@@ -6,6 +6,48 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 22.86 60.96)
+		(size 27.94 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "580dcacf-58ac-4920-a9de-4f719f9469e5")
+		(property "Sheetname" "USB_SPI"
+			(at 22.86 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_SPI.kicad_sch"
+			(at 22.86 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TOP"
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 22.86 22.86)
 		(size 27.94 6.35)
 		(exclude_from_sim no)
@@ -21,7 +63,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79")
-		(property "Sheetname" "POWER"
+		(property "Sheetname" "USB_PWR"
 			(at 22.86 22.1484 0)
 			(effects
 				(font
@@ -30,7 +72,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "POWER.kicad_sch"
+		(property "Sheetfile" "USB_PWR.kicad_sch"
 			(at 22.86 29.7946 0)
 			(effects
 				(font
