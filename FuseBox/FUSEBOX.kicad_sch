@@ -40,7 +40,7 @@
 			)
 		)
 		(instances
-			(project "TOP"
+			(project "FUSEBOX"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
 					(page "5")
 				)
@@ -82,7 +82,7 @@
 			)
 		)
 		(instances
-			(project "TOP"
+			(project "FUSEBOX"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
 					(page "2")
 				)
@@ -124,7 +124,7 @@
 			)
 		)
 		(instances
-			(project "TOP"
+			(project "FUSEBOX"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
 					(page "4")
 				)
@@ -166,7 +166,7 @@
 			)
 		)
 		(instances
-			(project "TOP"
+			(project "FUSEBOX"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
 					(page "3")
 				)
