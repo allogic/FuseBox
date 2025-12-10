@@ -5538,7 +5538,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "ICE40HX Bank 1"
+	(text "Bank 1"
 		(exclude_from_sim no)
 		(at 166.878 24.384 0)
 		(effects
@@ -5551,7 +5551,7 @@
 		)
 		(uuid "1c3bd834-3bb6-40ec-a266-25540e322022")
 	)
-	(text "ICE40HX Bank 2"
+	(text "Bank 2"
 		(exclude_from_sim no)
 		(at 261.874 24.384 0)
 		(effects
@@ -5564,7 +5564,7 @@
 		)
 		(uuid "239c6b0a-6ab3-4397-b4c8-847e0c02acd4")
 	)
-	(text "ICE40HX Bank 3"
+	(text "Bank 3"
 		(exclude_from_sim no)
 		(at 352.044 23.876 0)
 		(effects
@@ -5577,20 +5577,7 @@
 		)
 		(uuid "5e7cc821-30c4-4169-b16a-291cae119a9d")
 	)
-	(text "ICE40HX SPI"
-		(exclude_from_sim no)
-		(at 258.318 200.914 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(italic yes)
-			)
-		)
-		(uuid "71fb98b9-b4cf-4167-87ee-dfced334ff74")
-	)
-	(text "ICE40HX Bank 0"
+	(text "Bank 0"
 		(exclude_from_sim no)
 		(at 71.628 24.13 0)
 		(effects
@@ -5602,19 +5589,6 @@
 			)
 		)
 		(uuid "8b51d98b-6766-4ac2-947d-5ad850a5e3dd")
-	)
-	(text "ICE40HX Power"
-		(exclude_from_sim no)
-		(at 352.552 180.34 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(italic yes)
-			)
-		)
-		(uuid "c94d968e-9ff1-4479-ad58-056d81f28bcd")
 	)
 	(junction
 		(at 224.79 96.52)
@@ -9300,7 +9274,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "09ada4d5-56dc-44fb-b4dc-57d833f870d2")
 		(property "Reference" "#PWR046"
 			(at 34.29 99.06 0)
@@ -9312,7 +9285,7 @@
 			)
 		)
 		(property "Value" "+1V2"
-			(at 34.2899 106.68 90)
+			(at 36.322 108.204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15047,7 +15020,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9a7ced80-6785-4a20-a68c-593ddd4e6761")
 		(property "Reference" "#PWR060"
 			(at 224.79 99.06 0)
@@ -15059,7 +15031,7 @@
 			)
 		)
 		(property "Value" "+1V2"
-			(at 224.7899 106.68 90)
+			(at 226.568 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16232,7 +16204,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 383.54 180.086 90)
+			(at 383.286 181.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)

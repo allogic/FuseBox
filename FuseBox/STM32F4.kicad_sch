@@ -429,7 +429,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Custom:CG048748M"
+		(symbol "Custom:STDCSU18M"
 			(pin_names
 				(offset 0.254)
 			)
@@ -444,7 +444,7 @@
 					)
 				)
 			)
-			(property "Value" "CG048748M"
+			(property "Value" "STDCSU18M"
 				(at 5.08 -4.445 0)
 				(effects
 					(font
@@ -452,8 +452,8 @@
 					)
 				)
 			)
-			(property "Footprint" "Custom:CG048748M"
-				(at 4.318 -8.636 0)
+			(property "Footprint" "Custom:STDCSU18M"
+				(at 5.588 10.668 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -462,8 +462,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "CG04874-8M"
-				(at 4.572 -6.604 0)
+			(property "Datasheet" "STDCSU1-8M"
+				(at 5.588 8.382 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -481,7 +481,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "CG04874-8M"
+			(property "ki_keywords" "STDCSU1-8M"
 				(at 0 0 0)
 				(effects
 					(font
@@ -490,7 +490,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "XTAL_CG04874_NDK XTAL_CG04874_NDK-M XTAL_CG04874_NDK-L"
+			(property "ki_fp_filters" "XTAL_NX5032GA_NDK XTAL_NX5032GA_NDK-M XTAL_NX5032GA_NDK-L"
 				(at 0 0 0)
 				(effects
 					(font
@@ -499,7 +499,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "CG048748M_1_1"
+			(symbol "STDCSU18M_1_1"
 				(polyline
 					(pts
 						(xy 2.54 -1.905) (xy 2.54 1.905)
@@ -609,7 +609,7 @@
 					)
 				)
 			)
-			(symbol "CG048748M_1_2"
+			(symbol "STDCSU18M_1_2"
 				(polyline
 					(pts
 						(xy -2.54 6.35) (xy 2.54 6.35)
@@ -3814,19 +3814,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "STM32F4"
-		(exclude_from_sim no)
-		(at 150.114 26.924 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(italic yes)
-			)
-		)
-		(uuid "5a11dcbb-2174-4002-8f95-f218e63ea534")
-	)
 	(junction
 		(at 184.15 110.49)
 		(diameter 0)
@@ -5735,75 +5722,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Custom:CG048748M")
-		(at 30.48 69.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "146f791a-73a5-4e39-90c2-026f7c93b39d")
-		(property "Reference" "X1"
-			(at 35.56 65.532 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "CG048748M"
-			(at 35.306 74.93 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Custom:CG048748M"
-			(at 34.798 78.486 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "CG04874-8M"
-			(at 35.052 76.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 30.48 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8c19dcd5-e4df-4d08-9d9f-43bee1505dfa")
-		)
-		(pin "2"
-			(uuid "b5070526-9043-419e-8681-4a4505c8c049")
-		)
-		(instances
-			(project ""
-				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "X1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 184.15 119.38 0)
 		(unit 1)
@@ -7118,7 +7036,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10p"
+		(property "Value" "20p"
 			(at 29.21 83.8199 0)
 			(effects
 				(font
@@ -8023,7 +7941,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10p"
+		(property "Value" "20p"
 			(at 49.53 83.8199 0)
 			(effects
 				(font
@@ -9058,6 +8976,75 @@
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
 					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Custom:STDCSU18M")
+		(at 30.48 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e8fa81b3-5cf9-48a0-8e76-667f70b859ff")
+		(property "Reference" "X1"
+			(at 35.56 64.77 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "STDCSU18M"
+			(at 35.56 74.676 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Custom:STDCSU18M"
+			(at 36.068 59.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "STDCSU1-8M"
+			(at 36.068 61.468 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 30.48 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "27b98b9c-7cee-43e6-aaa6-52fe8b0d7dc3")
+		)
+		(pin "1"
+			(uuid "5b76020b-4129-4761-a83e-91142c5654af")
+		)
+		(instances
+			(project ""
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
+					(reference "X1")
 					(unit 1)
 				)
 			)
