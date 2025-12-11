@@ -6556,7 +6556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 104.14 162.56 0)
 			(effects
 				(font
@@ -7312,7 +7312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 124.46 162.56 0)
 			(effects
 				(font
@@ -7379,7 +7379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 144.78 162.56 0)
 			(effects
 				(font
@@ -7650,7 +7650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 134.62 162.56 0)
 			(effects
 				(font
@@ -9340,7 +9340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 104.14 184.15 0)
 			(effects
 				(font
@@ -10015,7 +10015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 144.78 184.15 0)
 			(effects
 				(font
@@ -10082,7 +10082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 124.46 184.15 0)
 			(effects
 				(font
@@ -11317,7 +11317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 114.3 184.15 0)
 			(effects
 				(font
@@ -11514,7 +11514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 158.75 173.99 0)
 			(effects
 				(font
@@ -11581,7 +11581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 114.3 162.56 0)
 			(effects
 				(font
@@ -11648,7 +11648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 134.62 184.15 0)
 			(effects
 				(font

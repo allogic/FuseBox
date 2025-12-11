@@ -15092,6 +15092,14 @@
 		(uuid "1c9362e8-07c2-4188-abd6-52ade34c128b")
 	)
 	(no_connect
+		(at 237.49 101.6)
+		(uuid "1e561f36-4ad9-45cb-ae78-bc22ef70c429")
+	)
+	(no_connect
+		(at 46.99 158.75)
+		(uuid "29ff8354-0a28-4761-82a0-3184e7cde29e")
+	)
+	(no_connect
 		(at 289.56 158.75)
 		(uuid "2f66957f-aeae-405f-8b44-8436ead88ee3")
 	)
@@ -15120,16 +15128,48 @@
 		(uuid "5b00c205-776f-4c92-a204-2d579a84cd5f")
 	)
 	(no_connect
+		(at 46.99 156.21)
+		(uuid "6f8a1246-6223-4fa0-a63a-edf95ecca3e5")
+	)
+	(no_connect
 		(at 260.35 208.28)
 		(uuid "7fd45e83-352d-42d9-b06a-959250830174")
+	)
+	(no_connect
+		(at 237.49 135.89)
+		(uuid "897b211e-fb61-46b7-bf32-69214254e860")
+	)
+	(no_connect
+		(at 237.49 138.43)
+		(uuid "8b66cbae-f278-490a-88c3-871bb933107d")
+	)
+	(no_connect
+		(at 327.66 158.75)
+		(uuid "ab2d1b7f-de16-457f-9359-b24175b6cafb")
+	)
+	(no_connect
+		(at 327.66 156.21)
+		(uuid "ad465a58-5b2d-45a6-b493-77e6cc4d6216")
 	)
 	(no_connect
 		(at 289.56 148.59)
 		(uuid "af76c695-fe12-4115-b681-eba82f6c08ed")
 	)
 	(no_connect
+		(at 142.24 156.21)
+		(uuid "bf037aa0-9210-43b4-8e37-b74baacb10d6")
+	)
+	(no_connect
 		(at 260.35 215.9)
 		(uuid "cdab0d94-ac20-4f89-9e50-72324e4846bb")
+	)
+	(no_connect
+		(at 237.49 99.06)
+		(uuid "d5026afb-45a0-4c93-acc2-ccc73cbd42fe")
+	)
+	(no_connect
+		(at 142.24 158.75)
+		(uuid "d70108f0-0320-4cef-89f4-4c9faab23773")
 	)
 	(no_connect
 		(at 289.56 151.13)
@@ -19939,7 +19979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 62.23 212.09 0)
 			(effects
 				(font
@@ -20005,7 +20045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 33.02 91.44 0)
 			(effects
 				(font
@@ -20546,7 +20586,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 223.52 91.44 0)
 			(effects
 				(font
@@ -22947,7 +22987,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 153.67 212.09 0)
 			(effects
 				(font
@@ -23624,7 +23664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 33.02 73.66 0)
 			(effects
 				(font
@@ -23747,7 +23787,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "CDSU4148"
 			(at 367.03 191.008 0)
 			(effects
 				(font
@@ -23755,7 +23795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 367.03 187.96 0)
 			(effects
 				(font
@@ -25145,7 +25185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 44.45 212.09 0)
 			(effects
 				(font
@@ -25343,7 +25383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 223.52 73.66 0)
 			(effects
 				(font
@@ -26582,7 +26622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 135.89 212.09 0)
 			(effects
 				(font
@@ -27889,7 +27929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 62.23 251.46 0)
 			(effects
 				(font
@@ -28497,7 +28537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 44.45 251.46 0)
 			(effects
 				(font
@@ -28983,7 +29023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 135.89 251.46 0)
 			(effects
 				(font
@@ -30355,7 +30395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 153.67 251.46 0)
 			(effects
 				(font

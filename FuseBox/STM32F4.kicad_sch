@@ -9454,7 +9454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d5a1e2c-d768-4c0a-89ce-3133bef59dc9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0159"
 			(at 96.52 40.64 0)
 			(effects
 				(font
@@ -9504,7 +9504,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0159")
 					(unit 1)
 				)
 			)
@@ -9525,7 +9525,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0dd5010a-60bc-4b02-ac18-b89fc78ac124")
-		(property "Reference" "FB?"
+		(property "Reference" "FB5"
 			(at 64.77 225.552 90)
 			(effects
 				(font
@@ -9577,7 +9577,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "FB?")
+					(reference "FB5")
 					(unit 1)
 				)
 			)
@@ -9599,7 +9599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20f6f2a7-14b8-4b08-a585-e3e9d6005b38")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0151"
 			(at 39.37 260.35 0)
 			(effects
 				(font
@@ -9649,7 +9649,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -9670,7 +9670,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "25250c63-9366-40d6-a9f9-11d5425a2b7c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0158"
 			(at 83.82 30.48 0)
 			(effects
 				(font
@@ -9721,7 +9721,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0158")
 					(unit 1)
 				)
 			)
@@ -9742,7 +9742,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f86a020-29d9-46c4-b6d3-4d8318b8fac9")
-		(property "Reference" "R?"
+		(property "Reference" "R60"
 			(at 87.63 227.33 90)
 			(effects
 				(font
@@ -9794,7 +9794,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "R?")
+					(reference "R60")
 					(unit 1)
 				)
 			)
@@ -9816,7 +9816,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3eead5ec-cf33-4fad-b2d6-bc782f6388d3")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0155"
 			(at 119.38 247.65 0)
 			(effects
 				(font
@@ -9867,7 +9867,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -9889,7 +9889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40214332-f105-45bb-8ba5-4c7f3b2051a2")
-		(property "Reference" "C?"
+		(property "Reference" "C47"
 			(at 57.15 255.2699 0)
 			(effects
 				(font
@@ -9943,7 +9943,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -9965,7 +9965,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40b5e59c-7a55-438b-9ec1-46058fd81f18")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0161"
 			(at 97.79 64.77 0)
 			(effects
 				(font
@@ -10016,7 +10016,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -10163,7 +10163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4447b88e-38b1-4c7d-afa2-35f17d562a22")
-		(property "Reference" "C?"
+		(property "Reference" "C61"
 			(at 137.16 255.2699 0)
 			(effects
 				(font
@@ -10217,7 +10217,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C61")
 					(unit 1)
 				)
 			)
@@ -10239,7 +10239,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "465f220d-df7e-4066-b31d-63e3578b76e7")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0150"
 			(at 139.7 40.64 0)
 			(effects
 				(font
@@ -10289,7 +10289,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -10311,7 +10311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "474bf03a-d6cb-477f-8419-41f605b4ad21")
-		(property "Reference" "C?"
+		(property "Reference" "C54"
 			(at 102.87 231.5209 0)
 			(effects
 				(font
@@ -10365,7 +10365,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -10757,7 +10757,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ad4a7e4-0309-478e-b195-8edec4b473ef")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0157"
 			(at 121.92 40.64 0)
 			(effects
 				(font
@@ -10807,7 +10807,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
@@ -10899,7 +10899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b880ff9-04bd-4e53-afcf-f12cc2ced3fa")
-		(property "Reference" "C?"
+		(property "Reference" "C51"
 			(at 87.63 44.4499 0)
 			(effects
 				(font
@@ -10953,7 +10953,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -10975,7 +10975,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e9857d0-ad9d-4838-81dd-9c0a6abb5429")
-		(property "Reference" "C?"
+		(property "Reference" "C48"
 			(at 68.58 255.2699 0)
 			(effects
 				(font
@@ -11029,7 +11029,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -11051,7 +11051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "620f8949-8f6a-4b4a-b8b7-f40b9e71594c")
-		(property "Reference" "C?"
+		(property "Reference" "C57"
 			(at 114.3 232.4099 0)
 			(effects
 				(font
@@ -11105,7 +11105,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -11127,7 +11127,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63868ff3-7b14-4003-b9d0-dc38ba83c269")
-		(property "Reference" "C?"
+		(property "Reference" "C58"
 			(at 114.3 242.5699 0)
 			(effects
 				(font
@@ -11181,7 +11181,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -11203,7 +11203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "698af0b1-2aa9-4598-a460-b7835906a780")
-		(property "Reference" "C?"
+		(property "Reference" "C59"
 			(at 114.3 255.2699 0)
 			(effects
 				(font
@@ -11257,7 +11257,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -11279,7 +11279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6acf0776-7aa7-4c0f-bee8-87a5f7be6ee2")
-		(property "Reference" "C?"
+		(property "Reference" "C53"
 			(at 95.25 172.7199 0)
 			(effects
 				(font
@@ -11333,7 +11333,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -11424,7 +11424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7824972a-9b7b-4f3c-9090-34d401a5202f")
-		(property "Reference" "R?"
+		(property "Reference" "R59"
 			(at 74.93 53.34 90)
 			(effects
 				(font
@@ -11476,7 +11476,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "R?")
+					(reference "R59")
 					(unit 1)
 				)
 			)
@@ -11498,7 +11498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79aca1a6-3571-4936-aa07-43d0693db9e4")
-		(property "Reference" "C?"
+		(property "Reference" "C55"
 			(at 102.87 243.4589 0)
 			(effects
 				(font
@@ -11552,7 +11552,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -11574,7 +11574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95e0fd91-f588-4467-bc34-094352127748")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0156"
 			(at 129.54 204.47 0)
 			(effects
 				(font
@@ -11624,7 +11624,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0156")
 					(unit 1)
 				)
 			)
@@ -11646,7 +11646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "984f050b-3f9c-416a-bd7c-ce21fb085be1")
-		(property "Reference" "C?"
+		(property "Reference" "C49"
 			(at 80.01 255.2699 0)
 			(effects
 				(font
@@ -11700,7 +11700,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -11855,7 +11855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aba0880c-4ce4-4e52-9c63-797ce447d073")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0160"
 			(at 58.42 59.69 0)
 			(effects
 				(font
@@ -11905,7 +11905,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0160")
 					(unit 1)
 				)
 			)
@@ -11927,7 +11927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be386fc1-a0da-4f03-ae57-8e05e6d9add4")
-		(property "Reference" "C?"
+		(property "Reference" "C56"
 			(at 102.87 255.2699 0)
 			(effects
 				(font
@@ -11981,7 +11981,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -12003,7 +12003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c538aa49-3cc1-4ce9-a45d-25b3b58c28a6")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0149"
 			(at 80.01 189.23 0)
 			(effects
 				(font
@@ -12053,7 +12053,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -12200,7 +12200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce966a11-3b43-497e-bf79-ca579a87fe13")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0154"
 			(at 119.38 229.87 0)
 			(effects
 				(font
@@ -12251,7 +12251,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -12273,7 +12273,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7191711-e9bb-4fc6-baf9-7436c2e0c665")
-		(property "Reference" "C?"
+		(property "Reference" "C50"
 			(at 83.82 172.7199 0)
 			(effects
 				(font
@@ -12327,7 +12327,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -12801,7 +12801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebe89378-8556-47f8-84a4-8429cfbfc0cc")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0153"
 			(at 129.54 238.76 0)
 			(effects
 				(font
@@ -12852,7 +12852,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -12874,7 +12874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5b4fab2-d9fd-4134-9daf-9fb4b2940f7a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0152"
 			(at 49.53 229.87 0)
 			(effects
 				(font
@@ -12924,7 +12924,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -12946,7 +12946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6021918-bedd-4d25-b01e-55d3148c8d3c")
-		(property "Reference" "C?"
+		(property "Reference" "C52"
 			(at 91.44 255.2699 0)
 			(effects
 				(font
@@ -13000,7 +13000,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -13022,7 +13022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f99a0d8a-79ba-4f8c-9d46-e638e2b9a14e")
-		(property "Reference" "R?"
+		(property "Reference" "R61"
 			(at 99.06 44.4499 0)
 			(effects
 				(font
@@ -13076,7 +13076,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "R?")
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -13098,7 +13098,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "faf17834-56e9-4e0c-934b-7301ec2bf4fd")
-		(property "Reference" "C?"
+		(property "Reference" "C60"
 			(at 125.73 255.2699 0)
 			(effects
 				(font
@@ -13152,7 +13152,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "C?")
+					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -13174,7 +13174,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe02f75f-85e3-4e33-8450-0c305e0fe397")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0148"
 			(at 91.44 189.23 0)
 			(effects
 				(font
@@ -13224,7 +13224,7 @@
 		(instances
 			(project "FuseBox"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/e599326e-505d-4a4a-8448-d1c391dfbddc"
-					(reference "#PWR?")
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)
