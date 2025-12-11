@@ -9576,6 +9576,268 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "EC11E183440C"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 10.16 2.286 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Value" "EC11E183440C"
+			(at 11.938 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "Custom:EC11E183440C"
+			(at 21.59 -89.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.ph/ProductDetail/Alps-Alpine/EC11E183440C?qs=YMSFtX0bdJC6PoDF7K4k%252Bg%3D%3D&srsltid=AfmBOorYrkkp3Lq41sMR4Ore76Jybh9sQ54N4UvAk2-drs_YEgE8YIKb"
+			(at 21.59 -189.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Alps 18 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft (Not Indexed), Through Hole"
+			(at 6.858 14.986 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "24.5"
+			(at 21.59 -389.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "ALPS Electric"
+			(at 21.59 -489.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EC11E183440C"
+			(at 21.59 -589.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "688-EC11E183440C"
+			(at 21.59 -689.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Alps-Alpine/EC11E183440C?qs=YMSFtX0bdJC6PoDF7K4k%252Bg%3D%3D"
+			(at 21.59 -789.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 21.59 -889.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 21.59 -989.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(symbol "EC11E183440C_1_1"
+			(rectangle
+				(start 0 0)
+				(end 15.24 -15.24)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at -5.08 -7.62 0)
+				(length 5.08)
+				(name "MH1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MH1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 5.08 270)
+				(length 5.08)
+				(name "D1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "D1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -20.32 90)
+				(length 5.08)
+				(name "A1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "A1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 5.08 270)
+				(length 5.08)
+				(name "E1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "E1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 -20.32 90)
+				(length 5.08)
+				(name "C1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 -20.32 90)
+				(length 5.08)
+				(name "B1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "B1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 20.32 -7.62 180)
+				(length 5.08)
+				(name "MH2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MH2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "FT2232HPQTRAY"
 		(pin_names
 			(offset 0.254)
@@ -13855,7 +14117,7 @@
 		(symbol "ICE40HX8KCT256_3_1"
 			(rectangle
 				(start 0 0)
-				(end 33.02 -119.38)
+				(end 33.02 -129.54)
 				(stroke
 					(width 0)
 					(type solid)
@@ -13937,78 +14199,6 @@
 				)
 			)
 			(pin bidirectional line
-				(at -7.62 -25.4 0)
-				(length 7.62)
-				(name "IOR_109"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "R14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 -27.94 0)
-				(length 7.62)
-				(name "IOR_110"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "R15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 -30.48 0)
-				(length 7.62)
-				(name "IOR_111"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "P14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 -33.02 0)
-				(length 7.62)
-				(name "IOR_112"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "P15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
 				(at -7.62 -35.56 0)
 				(length 7.62)
 				(name "TRST"
@@ -14027,7 +14217,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -7.62 -114.3 0)
+				(at -7.62 -124.46 0)
 				(length 7.62)
 				(name "IOR_141_GBIN2"
 					(effects
@@ -14045,7 +14235,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -7.62 -116.84 0)
+				(at -7.62 -127 0)
 				(length 7.62)
 				(name "IOR_140_GBIN3"
 					(effects
@@ -14065,6 +14255,78 @@
 			(pin bidirectional line
 				(at 40.64 -2.54 180)
 				(length 7.62)
+				(name "IOR_109"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "R14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 40.64 -5.08 180)
+				(length 7.62)
+				(name "IOR_110"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "R15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 40.64 -7.62 180)
+				(length 7.62)
+				(name "IOR_111"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 40.64 -10.16 180)
+				(length 7.62)
+				(name "IOR_112"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 40.64 -12.7 180)
+				(length 7.62)
 				(name "IOR_113"
 					(effects
 						(font
@@ -14081,7 +14343,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -5.08 180)
+				(at 40.64 -15.24 180)
 				(length 7.62)
 				(name "IOR_114"
 					(effects
@@ -14099,7 +14361,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -7.62 180)
+				(at 40.64 -17.78 180)
 				(length 7.62)
 				(name "IOR_115"
 					(effects
@@ -14117,7 +14379,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -10.16 180)
+				(at 40.64 -20.32 180)
 				(length 7.62)
 				(name "IOR_116"
 					(effects
@@ -14135,7 +14397,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -12.7 180)
+				(at 40.64 -22.86 180)
 				(length 7.62)
 				(name "IOR_117"
 					(effects
@@ -14153,7 +14415,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -15.24 180)
+				(at 40.64 -25.4 180)
 				(length 7.62)
 				(name "IOR_118"
 					(effects
@@ -14171,7 +14433,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -17.78 180)
+				(at 40.64 -27.94 180)
 				(length 7.62)
 				(name "IOR_119"
 					(effects
@@ -14189,7 +14451,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -20.32 180)
+				(at 40.64 -30.48 180)
 				(length 7.62)
 				(name "IOR_120"
 					(effects
@@ -14207,7 +14469,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -22.86 180)
+				(at 40.64 -33.02 180)
 				(length 7.62)
 				(name "IOR_121"
 					(effects
@@ -14225,7 +14487,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -25.4 180)
+				(at 40.64 -35.56 180)
 				(length 7.62)
 				(name "IOR_122"
 					(effects
@@ -14243,7 +14505,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -27.94 180)
+				(at 40.64 -38.1 180)
 				(length 7.62)
 				(name "IOR_123"
 					(effects
@@ -14261,7 +14523,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -30.48 180)
+				(at 40.64 -40.64 180)
 				(length 7.62)
 				(name "IOR_126"
 					(effects
@@ -14279,7 +14541,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -33.02 180)
+				(at 40.64 -43.18 180)
 				(length 7.62)
 				(name "IOR_127"
 					(effects
@@ -14297,7 +14559,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -35.56 180)
+				(at 40.64 -45.72 180)
 				(length 7.62)
 				(name "IOR_128"
 					(effects
@@ -14315,7 +14577,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -38.1 180)
+				(at 40.64 -48.26 180)
 				(length 7.62)
 				(name "IOR_129"
 					(effects
@@ -14333,7 +14595,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -40.64 180)
+				(at 40.64 -50.8 180)
 				(length 7.62)
 				(name "IOR_130"
 					(effects
@@ -14351,7 +14613,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -43.18 180)
+				(at 40.64 -53.34 180)
 				(length 7.62)
 				(name "IOR_131"
 					(effects
@@ -14369,7 +14631,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -45.72 180)
+				(at 40.64 -55.88 180)
 				(length 7.62)
 				(name "IOR_133"
 					(effects
@@ -14387,7 +14649,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -48.26 180)
+				(at 40.64 -58.42 180)
 				(length 7.62)
 				(name "IOR_134"
 					(effects
@@ -14405,7 +14667,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -50.8 180)
+				(at 40.64 -60.96 180)
 				(length 7.62)
 				(name "IOR_136"
 					(effects
@@ -14423,7 +14685,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -53.34 180)
+				(at 40.64 -63.5 180)
 				(length 7.62)
 				(name "IOR_137"
 					(effects
@@ -14441,7 +14703,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -55.88 180)
+				(at 40.64 -66.04 180)
 				(length 7.62)
 				(name "IOR_138"
 					(effects
@@ -14459,7 +14721,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -58.42 180)
+				(at 40.64 -68.58 180)
 				(length 7.62)
 				(name "IOR_139"
 					(effects
@@ -14477,7 +14739,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -60.96 180)
+				(at 40.64 -71.12 180)
 				(length 7.62)
 				(name "IOR_142"
 					(effects
@@ -14495,7 +14757,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -63.5 180)
+				(at 40.64 -73.66 180)
 				(length 7.62)
 				(name "IOR_143"
 					(effects
@@ -14513,7 +14775,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -66.04 180)
+				(at 40.64 -76.2 180)
 				(length 7.62)
 				(name "IOR_144"
 					(effects
@@ -14531,7 +14793,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -68.58 180)
+				(at 40.64 -78.74 180)
 				(length 7.62)
 				(name "IOR_145"
 					(effects
@@ -14549,7 +14811,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -71.12 180)
+				(at 40.64 -81.28 180)
 				(length 7.62)
 				(name "IOR_146"
 					(effects
@@ -14567,7 +14829,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -73.66 180)
+				(at 40.64 -83.82 180)
 				(length 7.62)
 				(name "IOR_147"
 					(effects
@@ -14585,7 +14847,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -76.2 180)
+				(at 40.64 -86.36 180)
 				(length 7.62)
 				(name "IOR_148"
 					(effects
@@ -14603,7 +14865,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -78.74 180)
+				(at 40.64 -88.9 180)
 				(length 7.62)
 				(name "IOR_149"
 					(effects
@@ -14621,7 +14883,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -81.28 180)
+				(at 40.64 -91.44 180)
 				(length 7.62)
 				(name "IOR_150"
 					(effects
@@ -14639,7 +14901,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -83.82 180)
+				(at 40.64 -93.98 180)
 				(length 7.62)
 				(name "IOR_151"
 					(effects
@@ -14657,7 +14919,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -86.36 180)
+				(at 40.64 -96.52 180)
 				(length 7.62)
 				(name "IOR_152"
 					(effects
@@ -14675,7 +14937,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -88.9 180)
+				(at 40.64 -99.06 180)
 				(length 7.62)
 				(name "IOR_153"
 					(effects
@@ -14693,7 +14955,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -91.44 180)
+				(at 40.64 -101.6 180)
 				(length 7.62)
 				(name "IOR_154"
 					(effects
@@ -14711,7 +14973,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -93.98 180)
+				(at 40.64 -104.14 180)
 				(length 7.62)
 				(name "IOR_155"
 					(effects
@@ -14729,7 +14991,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -96.52 180)
+				(at 40.64 -106.68 180)
 				(length 7.62)
 				(name "IOR_156"
 					(effects
@@ -14747,7 +15009,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -99.06 180)
+				(at 40.64 -109.22 180)
 				(length 7.62)
 				(name "IOR_157"
 					(effects
@@ -14765,7 +15027,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -101.6 180)
+				(at 40.64 -111.76 180)
 				(length 7.62)
 				(name "IOR_158"
 					(effects
@@ -14783,7 +15045,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -104.14 180)
+				(at 40.64 -114.3 180)
 				(length 7.62)
 				(name "IOR_160"
 					(effects
@@ -14801,7 +15063,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -106.68 180)
+				(at 40.64 -116.84 180)
 				(length 7.62)
 				(name "IOR_161"
 					(effects
@@ -14819,7 +15081,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -109.22 180)
+				(at 40.64 -119.38 180)
 				(length 7.62)
 				(name "IOR_162"
 					(effects
@@ -14837,7 +15099,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -111.76 180)
+				(at 40.64 -121.92 180)
 				(length 7.62)
 				(name "IOR_165"
 					(effects
@@ -14855,7 +15117,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -114.3 180)
+				(at 40.64 -124.46 180)
 				(length 7.62)
 				(name "IOR_166"
 					(effects
@@ -14873,7 +15135,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 40.64 -116.84 180)
+				(at 40.64 -127 180)
 				(length 7.62)
 				(name "IOR_167"
 					(effects
