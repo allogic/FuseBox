@@ -2846,6 +2846,12 @@
 		(uuid "4c19f47c-f02b-4305-aeda-ee4ba7d25562")
 	)
 	(junction
+		(at 251.46 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d109a33-41ce-4780-ac31-3dc29288aeff")
+	)
+	(junction
 		(at 140.97 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2978,6 +2984,12 @@
 		(uuid "bf362c12-2d9f-4f1c-a316-fde27311ec3f")
 	)
 	(junction
+		(at 261.62 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6367527-72e8-4779-b4b6-6dc4cc2964f4")
+	)
+	(junction
 		(at 129.54 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3006,6 +3018,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ccdc5b79-f5f2-4e52-aae5-23c630688b93")
+	)
+	(junction
+		(at 215.9 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf99d512-d0cd-4654-aec6-1edcf4c0bcb5")
 	)
 	(junction
 		(at 43.18 67.31)
@@ -3249,6 +3267,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 101.6) (xy 228.6 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "153acadc-7e97-4af7-b3f5-e5c4719d4827")
+	)
+	(wire
+		(pts
 			(xy 237.49 43.18) (xy 237.49 41.91)
 		)
 		(stroke
@@ -3329,7 +3357,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 101.6) (xy 228.6 101.6)
+			(xy 204.47 101.6) (xy 215.9 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3359,7 +3387,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 41.91) (xy 269.24 41.91)
+			(xy 255.27 41.91) (xy 261.62 41.91)
 		)
 		(stroke
 			(width 0)
@@ -3406,6 +3434,16 @@
 			(type default)
 		)
 		(uuid "28bd06e8-f925-4402-b1e9-7c66b3de3f0d")
+	)
+	(wire
+		(pts
+			(xy 261.62 41.91) (xy 261.62 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a94e305-feba-4f6c-addc-c2a8847cc7f0")
 	)
 	(wire
 		(pts
@@ -3466,6 +3504,16 @@
 			(type default)
 		)
 		(uuid "32b21312-1f4d-4f52-b5d8-a35b55cd82a6")
+	)
+	(wire
+		(pts
+			(xy 215.9 101.6) (xy 215.9 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "351ad81b-3502-4dd2-ae63-fb5684eae00a")
 	)
 	(wire
 		(pts
@@ -3619,16 +3667,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 102.87) (xy 215.9 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ccd7e6d-a1dc-4d91-b28a-e0eb74b14502")
-	)
-	(wire
-		(pts
 			(xy 182.88 99.06) (xy 182.88 101.6)
 		)
 		(stroke
@@ -3749,16 +3787,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 123.19) (xy 257.81 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58b73096-c93a-4d3e-991e-5aee622993f1")
-	)
-	(wire
-		(pts
 			(xy 87.63 106.68) (xy 83.82 106.68)
 		)
 		(stroke
@@ -3856,6 +3884,16 @@
 			(type default)
 		)
 		(uuid "654afbaf-10a4-44b1-af06-66afdb71681c")
+	)
+	(wire
+		(pts
+			(xy 247.65 123.19) (xy 251.46 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6790e2ec-de1a-4196-b2d2-759ea1de15cf")
 	)
 	(wire
 		(pts
@@ -4126,16 +4164,6 @@
 			(type default)
 		)
 		(uuid "8acaef34-788e-44db-ab14-556d02b6c221")
-	)
-	(wire
-		(pts
-			(xy 261.62 41.91) (xy 261.62 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cf4fdf3-7c66-450d-9a81-76ed937f256f")
 	)
 	(wire
 		(pts
@@ -4829,6 +4857,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 123.19) (xy 257.81 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6a0bdc3-4ead-4f1b-a6e3-4fd863294921")
+	)
+	(wire
+		(pts
 			(xy 54.61 101.6) (xy 54.61 105.41)
 		)
 		(stroke
@@ -4836,6 +4874,26 @@
 			(type default)
 		)
 		(uuid "e838fd91-56b4-46b9-ac94-9e5d561e9e6c")
+	)
+	(wire
+		(pts
+			(xy 261.62 41.91) (xy 269.24 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8ba8759-3467-472d-95a0-e3d70f172d50")
+	)
+	(wire
+		(pts
+			(xy 251.46 123.19) (xy 251.46 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e91ad401-a454-4694-b2d2-7143e427ac3e")
 	)
 	(wire
 		(pts
@@ -4989,16 +5047,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 123.19) (xy 251.46 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdfeafab-8d88-4e6e-b724-245d7a4a80ea")
-	)
-	(wire
-		(pts
 			(xy 87.63 116.84) (xy 83.82 116.84)
 		)
 		(stroke
@@ -5115,6 +5163,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5178,6 +5232,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -5251,6 +5311,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5314,6 +5380,12 @@
 		(instances
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
+					(reference "L1")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
 					(reference "L1")
 					(unit 1)
 				)
@@ -5385,6 +5457,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5447,6 +5525,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -5520,6 +5604,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R17")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5583,6 +5673,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -5653,6 +5749,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R12")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5719,6 +5821,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5782,6 +5890,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -5854,6 +5968,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5916,6 +6036,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -5985,6 +6111,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6051,6 +6183,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6114,6 +6252,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6186,6 +6330,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C13")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6252,6 +6402,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -6324,6 +6480,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6387,6 +6549,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -6460,6 +6628,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R16")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6526,6 +6700,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6589,6 +6769,12 @@
 		(instances
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
 					(reference "TP1")
 					(unit 1)
 				)
@@ -6671,6 +6857,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "U2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6734,6 +6926,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -6813,6 +7011,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "D5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6876,6 +7080,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -6948,6 +7158,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7010,6 +7226,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -7078,6 +7300,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7141,6 +7369,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -7213,6 +7447,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7279,6 +7519,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -7349,6 +7595,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7413,6 +7665,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "TP5")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -7483,6 +7741,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "FB2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7547,6 +7811,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -7620,6 +7890,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7684,6 +7960,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "TP4")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -7813,6 +8095,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7880,6 +8168,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "FB1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7943,6 +8237,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -8016,6 +8316,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8078,6 +8384,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -8147,6 +8459,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8210,6 +8528,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -8282,6 +8606,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8346,6 +8676,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -8416,6 +8752,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "FB3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8480,6 +8822,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -8550,6 +8898,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8612,6 +8966,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -8679,6 +9039,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "FB1")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -8899,6 +9265,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "J1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8962,6 +9334,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -9031,6 +9409,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "C12")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -9110,6 +9494,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "D4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9179,6 +9569,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9241,6 +9637,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -9310,6 +9712,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9374,6 +9782,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "TP6")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -9446,6 +9860,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9510,6 +9930,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -9580,6 +10006,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9647,6 +10079,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9710,6 +10148,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -9782,6 +10226,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9849,6 +10299,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9912,6 +10368,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -9985,6 +10447,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10048,6 +10516,12 @@
 		(instances
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
 					(reference "TP10")
 					(unit 1)
 				)
@@ -10119,6 +10593,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10182,6 +10662,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -10254,6 +10740,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10320,6 +10812,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -10393,6 +10891,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R13")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10456,6 +10960,12 @@
 		(instances
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
 					(reference "R11")
 					(unit 1)
 				)
@@ -10527,6 +11037,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -10606,6 +11122,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "D3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10668,6 +11190,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -10747,6 +11275,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "D1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10817,6 +11351,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10879,6 +11419,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -10951,6 +11497,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "C1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11013,6 +11565,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR081")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -11085,6 +11643,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "D2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11148,6 +11712,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -11221,6 +11791,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "R4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11284,6 +11860,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -11354,6 +11936,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11416,6 +12004,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR087")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -11484,6 +12078,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11547,6 +12147,12 @@
 		(instances
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
+					(reference "TP11")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
 					(reference "TP11")
 					(unit 1)
 				)
@@ -11618,6 +12224,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11685,6 +12297,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11747,6 +12365,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR080")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -11816,6 +12440,12 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11878,6 +12508,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR088")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -11944,6 +12580,12 @@
 			(project "TOP"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c/6b93f4a9-4e3c-44e6-b8e2-7f9e4ee37b79"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -12014,6 +12656,18 @@
 					(unit 1)
 				)
 			)
+			(project "USB_PWR"
+				(path "/8d2dab70-8707-45e1-b1de-0dc1a00ea525"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
