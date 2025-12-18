@@ -63,7 +63,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "6ecf95c8-b353-48d8-839e-bb25cb947a87")
-		(property "Sheetname" "ENCODER"
+		(property "Sheetname" "ROTARY_ENCODER"
 			(at 22.86 60.2484 0)
 			(effects
 				(font
@@ -72,7 +72,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ENCODER.kicad_sch"
+		(property "Sheetfile" "ROTARY_ENCODER.kicad_sch"
 			(at 22.86 67.8946 0)
 			(effects
 				(font
@@ -85,6 +85,48 @@
 			(project "FUSEBOX"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 73.66)
+		(size 27.94 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a82815ad-738d-4024-bd4a-fd1de3f611e6")
+		(property "Sheetname" "DISPLAY_DRIVER"
+			(at 22.86 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DISPLAY_DRIVER.kicad_sch"
+			(at 22.86 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FUSEBOX"
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(page "6")
 				)
 			)
 		)
@@ -105,7 +147,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "b4e578af-3d50-44df-93ee-873a8251bc3d")
-		(property "Sheetname" "ICE40HX"
+		(property "Sheetname" "ENCODER_CTRL"
 			(at 22.86 47.5484 0)
 			(effects
 				(font
@@ -114,7 +156,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ICE40HX.kicad_sch"
+		(property "Sheetfile" "ENCODER_CTRL.kicad_sch"
 			(at 22.86 55.1946 0)
 			(effects
 				(font
@@ -147,7 +189,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "e599326e-505d-4a4a-8448-d1c391dfbddc")
-		(property "Sheetname" "STM32F4"
+		(property "Sheetname" "MIDI_CTRL"
 			(at 22.86 34.8484 0)
 			(effects
 				(font
@@ -156,7 +198,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "STM32F4.kicad_sch"
+		(property "Sheetfile" "MIDI_CTRL.kicad_sch"
 			(at 22.86 42.4946 0)
 			(effects
 				(font

@@ -685,15 +685,19 @@
     ],
     [
       "e599326e-505d-4a4a-8448-d1c391dfbddc",
-      "STM32F4"
+      "MIDI_CTRL"
     ],
     [
       "b4e578af-3d50-44df-93ee-873a8251bc3d",
-      "ICE40HX"
+      "ENCODER_CTRL"
     ],
     [
       "6ecf95c8-b353-48d8-839e-bb25cb947a87",
-      "ENCODER"
+      "ROTARY_ENCODER"
+    ],
+    [
+      "a82815ad-738d-4024-bd4a-fd1de3f611e6",
+      "DISPLAY_DRIVER"
     ]
   ],
   "text_variables": {}
