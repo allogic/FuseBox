@@ -1,0 +1,54 @@
+MT41K256M16HA-125 IT:E
+    Tech: SDRAM - DDR3L
+    Capacity: 4 Gbit
+    Frequency: 800 MHz
+    AccessTime: 13.75 ns
+    Voltage: 1V3
+    Ordering: 256M x 16
+    Stock: Obsolete
+    Cost: -
+    URL: https://www.digikey.de/de/products/detail/micron-technology-inc/MT41K256M16HA-125-IT-E/4251398?srsltid=AfmBOorXzIMxeZ891PCpV91TYfi5p3_LKJZ5TfIFRCeO5lDqC0R9oACV
+
+MT41K256M16TW-107 IT:P
+    Tech: SDRAM - DDR3L
+    Capacity: 4 Gbit
+    Frequency: 933 MHz
+    AccessTime: 20 ns
+    Voltage: 1V3
+    Ordering: 256M x 16
+    Stock: 2436
+    Cost: 10€
+    URL: https://www.digikey.de/de/products/detail/micron-technology-inc/MT41K256M16TW-107-IT-P/5956628
+
+IS46TR16256AL-15HBLA1
+    Tech: SDRAM - DDR3L
+    Capacity: 4 Gbit
+    Frequency: 667 MHz
+    AccessTime: 20 ns
+    Voltage: 1V3
+    Ordering: 256M x 16
+    Stock: Approval required
+    Cost: -
+    URL: https://www.digikey.de/de/products/detail/issi-integrated-silicon-solution-inc/IS46TR16256AL-15HBLA1/4861637
+
+MT41K256M16TW-107 AAT:P TR
+    Tech: SDRAM - DDR3L
+    Capacity: 4 Gbit
+    Frequency: 933 MHz
+    AccessTime: 20 ns
+    Voltage: 1V3
+    Ordering: 256M x 16
+    Stock: 1002
+    Cost: 14€
+    URL: https://www.digikey.de/de/products/detail/micron-technology-inc/MT41K256M16TW-107-AAT-P-TR/6226627
+
+MT41K256M16TW-107 AAT:P
+    Tech: SDRAM - DDR3L
+    Capacity: 4G bit
+    Frequency: 933 MHz
+    AccessTime: 20 ns
+    Voltage: 1V3
+    Ordering: 256M x 16
+    Stock: 4302
+    Cost: 14€
+    URL: https://www.digikey.de/de/products/detail/micron-technology-inc/MT41K256M16TW-107-AAT-P/6036291

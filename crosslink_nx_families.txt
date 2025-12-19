@@ -1,0 +1,49 @@
+LIFCL-40-7BG256I
+    EmbeddedMemory: 1.48 Mbit
+    IO: 163
+    LogicCells: 39000
+    LAB/CLB: 9750
+    Voltage: 1V
+    Stock: 142
+    Cost: 60€
+    URL: https://www.digikey.de/de/products/detail/lattice-semiconductor-corporation/LIFCL-40-7BG256I/12751850?srsltid=AfmBOorOc2o4EHJ-r1ngRWGGBN5CnqZfk0BtqaRJVH6P8878tv7z1d4e
+
+LIFCL-40-7MG289C
+    EmbeddedMemory: 1.48 Mbit
+    IO: 180
+    LogicCells: 39000
+    LAB/CLB: 9750
+    Voltage: 1V
+    Stock: 143
+    Cost: 60€
+    URL: https://www.digikey.de/de/products/detail/lattice-semiconductor-corporation/LIFCL-40-7MG289C/12146744?srsltid=AfmBOorjnE42pwYqSmmWLR4k4iEm4Bt8Z3J78yoTDKghVATqXM2iY9Qw
+
+LIFCL-40-9MG289C
+    EmbeddedMemory: 1.48 Mbit
+    IO: 180
+    LogicCells: 39000
+    LAB/CLB: 9750
+    Voltage: 1V
+    Stock: 185
+    Cost: 65€
+    URL: https://www.digikey.com/en/products/detail/lattice-semiconductor-corporation/LIFCL-40-9MG289C/12146702
+
+LIFCL-40-9SG72I
+    EmbeddedMemory: 1.48 Mbit
+    IO: 40
+    LogicCells: 39000
+    LAB/CLB: 9750
+    Voltage: 1V
+    Stock: 103
+    Cost: 54€
+    URL: https://www.digikey.de/de/products/detail/lattice-semiconductor-corporation/LIFCL-40-9SG72I/12146719?srsltid=AfmBOorYlJnIr0vuDNpJBBHqybv7zimBds256X_JvOaKvX9a6K_iu7se
+
+LIFCL-40-9MG121I
+    EmbeddedMemory: 1.48 Mbit
+    IO: 72
+    LogicCells: 39000
+    LAB/CLB: 9750
+    Voltage: 1V
+    Stock: 206
+    Cost: 62€
+    URL: https://www.digikey.com/en/products/detail/lattice-semiconductor-corporation/LIFCL-40-9MG121I/12751807
