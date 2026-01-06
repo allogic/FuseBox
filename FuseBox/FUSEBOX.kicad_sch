@@ -6,6 +6,90 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 22.86 73.66)
+		(size 27.94 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "04957fa5-f37a-4410-94fa-538e764c5756")
+		(property "Sheetname" "ADC"
+			(at 22.86 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADC.kicad_sch"
+			(at 22.86 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FUSEBOX"
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 86.36)
+		(size 27.94 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "375a826f-d04b-40e3-8d49-5ad6ea655dd7")
+		(property "Sheetname" "DAC"
+			(at 22.86 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DAC.kicad_sch"
+			(at 22.86 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FUSEBOX"
+				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 22.86 22.86)
 		(size 27.94 6.35)
 		(exclude_from_sim no)
@@ -90,7 +174,7 @@
 		)
 	)
 	(sheet
-		(at 22.86 73.66)
+		(at 22.86 99.06)
 		(size 27.94 6.35)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -104,9 +188,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "a82815ad-738d-4024-bd4a-fd1de3f611e6")
-		(property "Sheetname" "DISPLAY_DRIVER"
-			(at 22.86 72.9484 0)
+		(uuid "7a27303e-f0c1-4424-9ce1-2ea5c6ba0793")
+		(property "Sheetname" "LED"
+			(at 22.86 98.3484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -114,8 +198,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "DISPLAY_DRIVER.kicad_sch"
-			(at 22.86 80.5946 0)
+		(property "Sheetfile" "LED.kicad_sch"
+			(at 22.86 105.9946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -126,7 +210,7 @@
 		(instances
 			(project "FUSEBOX"
 				(path "/7cec0856-4a31-46c4-b6e3-cba19fcff38c"
-					(page "6")
+					(page "7")
 				)
 			)
 		)

@@ -696,8 +696,16 @@
       "ROTARY_ENCODER"
     ],
     [
-      "a82815ad-738d-4024-bd4a-fd1de3f611e6",
-      "DISPLAY_DRIVER"
+      "04957fa5-f37a-4410-94fa-538e764c5756",
+      "ADC"
+    ],
+    [
+      "7a27303e-f0c1-4424-9ce1-2ea5c6ba0793",
+      "LED"
+    ],
+    [
+      "375a826f-d04b-40e3-8d49-5ad6ea655dd7",
+      "DAC"
     ]
   ],
   "text_variables": {}
