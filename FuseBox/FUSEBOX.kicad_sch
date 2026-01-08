@@ -231,7 +231,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "b4e578af-3d50-44df-93ee-873a8251bc3d")
-		(property "Sheetname" "ENCODER_CTRL"
+		(property "Sheetname" "FPGA"
 			(at 22.86 47.5484 0)
 			(effects
 				(font
@@ -240,7 +240,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ENCODER_CTRL.kicad_sch"
+		(property "Sheetfile" "FPGA.kicad_sch"
 			(at 22.86 55.1946 0)
 			(effects
 				(font
@@ -273,7 +273,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "e599326e-505d-4a4a-8448-d1c391dfbddc")
-		(property "Sheetname" "MIDI_CTRL"
+		(property "Sheetname" "MCU"
 			(at 22.86 34.8484 0)
 			(effects
 				(font
@@ -282,7 +282,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "MIDI_CTRL.kicad_sch"
+		(property "Sheetfile" "MCU.kicad_sch"
 			(at 22.86 42.4946 0)
 			(effects
 				(font
